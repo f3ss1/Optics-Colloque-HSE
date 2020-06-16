@@ -1,2 +1,2 @@
 # Optics-Colloque-HSE
-Solutions to Optics colloque at HSE, FF, 2020.
+The repo contains solutions to Optics exam taken at HSE, FF, 2020.
