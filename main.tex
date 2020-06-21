@@ -47,11 +47,17 @@
 \usepackage{cite}%Работа с библиографией
 \usepackage{subfigure}% Человеческая вставка нескольких картинок
 \usepackage{tikz}%Рисование рисунков
+\usetikzlibrary{circuits} % подключаем библиотеки, содержащие
+\usetikzlibrary{circuits.ee} % УГО для схем
+\usetikzlibrary{circuits.ee.IEC}
+\usetikzlibrary{arrows} % подключаем библиотеки со стрелками
+\usetikzlibrary{patterns} % и со штриховкой
 \usepackage{float}% Возможность ставить H в положениях картинки
 % Для картинок Моти
 \usepackage{misccorr}
 \usepackage{lscape}
 \usepackage{cmap}
+\usepackage{bm}
 
 
 
@@ -98,6 +104,8 @@
 {\ensuremath{\quad \Leftrightarrow \quad}} %Человеческий знак равносильности
 
 \renewcommand{\phi}{\varphi} %Нормальный знак фи
+
+\renewcommand{\epsilon}{\varepsilon}
 
 \newcommand{\me}
 {\ensuremath{\mathbb{E}}}
