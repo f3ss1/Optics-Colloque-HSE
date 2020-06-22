@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.8.8)  21 JUN 2020 16:51
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.8.8)  22 JUN 2020 22:36
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1222,7 +1222,7 @@ LaTeX Font Info:    Font shape `U/lasy/b/n' in size <8> not available
 LaTeX Font Info:    Font shape `U/lasy/b/n' in size <6> not available
 (Font)              Font shape `U/lasy/m/n' tried instead on input line 168.
 <<t2a.cmap>>
-<Pictures/HSElogo.pdf, id=108, 597.50786pt x 845.04686pt>
+<Pictures/HSElogo.pdf, id=128, 597.50786pt x 845.04686pt>
 File: Pictures/HSElogo.pdf Graphic file (type pdf)
 <use Pictures/HSElogo.pdf>
 Package pdftex.def Info: Pictures/HSElogo.pdf  used on input line 183.
@@ -1238,12 +1238,6 @@ Overfull \hbox (8.30276pt too wide) in paragraph at lines 2--2
  []
 
 
-Overfull \hbox (2.57802pt too wide) in paragraph at lines 23--23
- \T2A/cmr/bx/n/12 (при-ме-ни-тель-но к фор-ми-ро-ва-нию изоб-ра-же-ний). ƒи-фра
-к-ци-он-ный пре-дел раз- 
- []
-
-
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
 Make it at least 14.49998pt.
 We now make it that large for the rest of the document.
@@ -1253,42 +1247,50 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.23 ...eC {\cyrp }\IeC {\cyra }.}{47}{section.11}
-                                                  % [1])
+l.26 ...\cyrya }\IeC {\cyrh }}{38}{subsection.9.3}
+                                                  % [1]
+Overfull \hbox (2.57802pt too wide) in paragraph at lines 28--28
+ \T2A/cmr/bx/n/12 (при-ме-ни-тель-но к фор-ми-ро-ва-нию изоб-ра-же-ний). ƒи-фра
+к-ци-он-ный пре-дел раз- 
+ []
+
+)
 \tf@toc=\write5
 \openout5 = `main.toc'.
 
  [2] (./TeX_files/1.tex [3]
-<Pictures/Snellius.png, id=204, 169.13188pt x 190.21063pt>
+<Pictures/Snellius.png, id=229, 169.13188pt x 190.21063pt>
 File: Pictures/Snellius.png Graphic file (type png)
 <use Pictures/Snellius.png>
 Package pdftex.def Info: Pictures/Snellius.png  used on input line 58.
 (pdftex.def)             Requested size: 256.07481pt x 287.99992pt.
 ) [4 <./Pictures/Snellius.png>] (./TeX_files/2.tex
-<Pictures/2_1.png, id=215, 546.04pt x 425.59pt>
+<Pictures/2_1.png, id=240, 546.04pt x 425.59pt>
 File: Pictures/2_1.png Graphic file (type png)
 <use Pictures/2_1.png>
 Package pdftex.def Info: Pictures/2_1.png  used on input line 18.
 (pdftex.def)             Requested size: 163.81326pt x 127.67798pt.
- [5 <./Pictures/2_1.png>]
-<Pictures/2_2.jpg, id=225, 166.7028pt x 109.3686pt>
+
+[5 <./Pictures/2_1.png>]
+<Pictures/2_2.jpg, id=250, 166.7028pt x 109.3686pt>
 File: Pictures/2_2.jpg Graphic file (type jpg)
 <use Pictures/2_2.jpg>
 Package pdftex.def Info: Pictures/2_2.jpg  used on input line 40.
 (pdftex.def)             Requested size: 166.70238pt x 109.36832pt.
-<Pictures/2_3.png, id=226, 569.12625pt x 853.1875pt>
+<Pictures/2_3.png, id=251, 569.12625pt x 853.1875pt>
 File: Pictures/2_3.png Graphic file (type png)
 <use Pictures/2_3.png>
 Package pdftex.def Info: Pictures/2_3.png  used on input line 46.
 (pdftex.def)             Requested size: 170.73918pt x 255.95822pt.
-) [6 <./Pictures/2_2.jpg> <./Pictures/2_3.png>] (./TeX_files/3.tex
+) [6 <./Pictures/2_2.jpg> <./Pictures/2_3.png>]
+(./TeX_files/3.tex
 Overfull \hbox (0.8028pt too wide) in paragraph at lines 1--1
 \T2A/cmr/bx/n/17.28 ра-же-ни€. Ћи-ней-ное (по-пе-реч-ное) уве-ли-че-ние. ќп-ти-
 че-ска€
  []
 
 [7]
-<Pictures/3_1.jpg, id=247, 467.7475pt x 219.82124pt>
+<Pictures/3_1.jpg, id=272, 467.7475pt x 219.82124pt>
 File: Pictures/3_1.jpg Graphic file (type jpg)
 <use Pictures/3_1.jpg>
 Package pdftex.def Info: Pictures/3_1.jpg  used on input line 48.
@@ -1302,27 +1304,12 @@ File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 10.
  [12]
-
-LaTeX Warning: File `5_sferober.png' not found on input line 48.
-
-
-! Package pdftex.def Error: File `5_sferober.png' not found: using draft settin
-g.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.48 \includegraphics[scale=0.36]{5_sferober.png}
-                                                 
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-LaTeX Font Info:    Try loading font information for T2A+cmtt on input line 48.
-
-(/usr/local/texlive/2019/texmf-dist/tex/latex/cyrillic/t2acmtt.fd
-File: t2acmtt.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
-) [13]
+<Pictures/5_sferober.png, id=316, 963.6pt x 344.28625pt>
+File: Pictures/5_sferober.png Graphic file (type png)
+<use Pictures/5_sferober.png>
+Package pdftex.def Info: Pictures/5_sferober.png  used on input line 48.
+(pdftex.def)             Requested size: 346.89574pt x 123.94295pt.
+ [13 <./Pictures/5_sferober.png>]
 Underfull \hbox (badness 1242) in paragraph at lines 125--126
 \T2A/cmr/m/n/12 точ-ки схо-да уда-лЉн-ные от фо-каль-ной
  []
@@ -1330,77 +1317,70 @@ Underfull \hbox (badness 1242) in paragraph at lines 125--126
 ) [14] (./TeX_files/6.tex) [15] (./TeX_files/7.tex) [16] (./TeX_files/8.tex)
 [17] (./TeX_files/9.tex) [18] (./TeX_files/10.tex) [19] (./TeX_files/11.tex
 [20]) [21] (./TeX_files/12.tex) [22] (./TeX_files/13.tex) [23]
-(./TeX_files/14.tex) [24] (./TeX_files/15.tex) [25] (./TeX_files/16.tex)
-[26] (./TeX_files/17.tex) [27] (./TeX_files/18.tex) [28] (./TeX_files/19.tex)
-[29] (./TeX_files/20.tex) [30] (./TeX_files/21.tex) [31] (./TeX_files/22.tex)
-[32] (./TeX_files/23.tex) [33] (./TeX_files/24.tex) [34] (./TeX_files/25.tex)
-[35] (./TeX_files/26.tex [36]) [37] (./TeX_files/27.tex) [38]
-(./TeX_files/28.tex) [39] (./TeX_files/29.tex) [40] (./TeX_files/30.tex)
-[41] (./TeX_files/31.tex) [42] (./TeX_files/32.tex) [43] (./TeX_files/33.tex)
-[44] (./TeX_files/34.tex) [45] (./TeX_files/35.tex) [46] (./TeX_files/36.tex)
-[47] (./TeX_files/37.tex) [48] (./TeX_files/38.tex) [49] (./TeX_files/39.tex)
-[50] (./TeX_files/40.tex) [51] (./TeX_files/41.tex) [52] (./TeX_files/42.tex)
-[53] (./TeX_files/43.tex) [54] (./TeX_files/44.tex) [55] (./TeX_files/45.tex)
-[56] (./TeX_files/46.tex) [57] (./TeX_files/47.tex) [58] (./TeX_files/48.tex)
-[59] (./TeX_files/49.tex) [60] (./TeX_files/50.tex)
+(./TeX_files/14.tex) [24] (./TeX_files/15.tex) [25] (./TeX_files/16.tex
+[26]) [27] (./TeX_files/17.tex) [28] (./TeX_files/18.tex) [29]
+(./TeX_files/19.tex) [30] (./TeX_files/20.tex) [31] (./TeX_files/21.tex)
+[32] (./TeX_files/22.tex) [33] (./TeX_files/23.tex) [34] (./TeX_files/24.tex)
+[35] (./TeX_files/25.tex) [36] (./TeX_files/26.tex [37]) [38]
+(./TeX_files/27.tex) [39] (./TeX_files/28.tex) [40] (./TeX_files/29.tex)
+[41] (./TeX_files/30.tex) [42] (./TeX_files/31.tex) [43] (./TeX_files/32.tex)
+[44] (./TeX_files/33.tex) [45] (./TeX_files/34.tex) [46] (./TeX_files/35.tex)
+[47] (./TeX_files/36.tex) [48] (./TeX_files/37.tex) [49] (./TeX_files/38.tex)
+[50] (./TeX_files/39.tex) [51] (./TeX_files/40.tex) [52] (./TeX_files/41.tex)
+[53] (./TeX_files/42.tex) [54] (./TeX_files/43.tex) [55] (./TeX_files/44.tex)
+[56] (./TeX_files/45.tex) [57] (./TeX_files/46.tex) [58] (./TeX_files/47.tex)
+[59] (./TeX_files/48.tex) [60] (./TeX_files/49.tex) [61] (./TeX_files/50.tex)
 
 AED: lastpage setting LastPage
-[61]
+[62]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 403.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 403.
  (./main.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 403.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 403.
-
-
-Package rerunfilecheck Warning: File `main.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `main.out':
-(rerunfilecheck)             Before: A7103B32C7C3C583724A698C6DB1588F;20225
-(rerunfilecheck)             After:  1F9BADBFE96DEB482675A24C4B687343;20477.
+Package rerunfilecheck Info: File `main.out' has not changed.
+(rerunfilecheck)             Checksum: 808159FE2C2CBE9A8412D7B462C0B7AB;21860.
  ) 
 Here is how much of TeX's memory you used:
- 25532 strings out of 492616
- 464655 string characters out of 6129482
- 557792 words of memory out of 5000000
- 28628 multiletter control sequences out of 15000+600000
- 23755 words of font info for 64 fonts, out of 8000000 for 9000
+ 25528 strings out of 492616
+ 464309 string characters out of 6129482
+ 558202 words of memory out of 5000000
+ 28624 multiletter control sequences out of 15000+600000
+ 23445 words of font info for 63 fonts, out of 8000000 for 9000
  1143 hyphenation exceptions out of 8191
  55i,17n,76p,3428b,785s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t2a.enc
 }</usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb>
 </usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb><
-/usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></
-usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></us
-r/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/
-local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmmib10.pfb></usr/
-local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/lo
-cal/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/local
-/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/te
-xlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/tex
-live/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/local/texli
-ve/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive
-/2019/texmf-dist/fonts/type1/public/esint-type1/esint10.pfb></usr/local/texlive
-/2019/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb></usr/local/tex
-live/2019/texmf-dist/fonts/type1/public/cm-super/sfbi1200.pfb></usr/local/texli
-ve/2019/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb></usr/local/texlive
-/2019/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb></usr/local/texlive/2
-019/texmf-dist/fonts/type1/public/cm-super/sfbx1728.pfb></usr/local/texlive/201
-9/texmf-dist/fonts/type1/public/cm-super/sfbx2488.pfb></usr/local/texlive/2019/
-texmf-dist/fonts/type1/public/cm-super/sfcc1200.pfb></usr/local/texlive/2019/te
-xmf-dist/fonts/type1/public/cm-super/sfrm0800.pfb></usr/local/texlive/2019/texm
-f-dist/fonts/type1/public/cm-super/sfrm1200.pfb></usr/local/texlive/2019/texmf-
-dist/fonts/type1/public/cm-super/sfrm1440.pfb></usr/local/texlive/2019/texmf-di
-st/fonts/type1/public/cm-super/sfrm1728.pfb></usr/local/texlive/2019/texmf-dist
-/fonts/type1/public/cm-super/sfrm2074.pfb></usr/local/texlive/2019/texmf-dist/f
-onts/type1/public/cm-super/sfti1200.pfb></usr/local/texlive/2019/texmf-dist/fon
-ts/type1/public/cm-super/sftt1200.pfb>
-Output written on main.pdf (62 pages, 885762 bytes).
+/usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cmextra/cmex8.pf
+b></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb
+></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb><
+/usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></u
+sr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmmib10.pfb></u
+sr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr
+/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/lo
+cal/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local
+/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/
+texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/local/te
+xlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texl
+ive/2019/texmf-dist/fonts/type1/public/esint-type1/esint10.pfb></usr/local/texl
+ive/2019/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb></usr/local/
+texlive/2019/texmf-dist/fonts/type1/public/cm-super/sfbi1200.pfb></usr/local/te
+xlive/2019/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb></usr/local/texl
+ive/2019/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb></usr/local/texliv
+e/2019/texmf-dist/fonts/type1/public/cm-super/sfbx1728.pfb></usr/local/texlive/
+2019/texmf-dist/fonts/type1/public/cm-super/sfbx2488.pfb></usr/local/texlive/20
+19/texmf-dist/fonts/type1/public/cm-super/sfcc1200.pfb></usr/local/texlive/2019
+/texmf-dist/fonts/type1/public/cm-super/sfrm0800.pfb></usr/local/texlive/2019/t
+exmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb></usr/local/texlive/2019/tex
+mf-dist/fonts/type1/public/cm-super/sfrm1440.pfb></usr/local/texlive/2019/texmf
+-dist/fonts/type1/public/cm-super/sfrm1728.pfb></usr/local/texlive/2019/texmf-d
+ist/fonts/type1/public/cm-super/sfrm2074.pfb></usr/local/texlive/2019/texmf-dis
+t/fonts/type1/public/cm-super/sfti1200.pfb>
+Output written on main.pdf (63 pages, 1078088 bytes).
 PDF statistics:
- 627 PDF objects out of 1000 (max. 8388607)
- 515 compressed objects within 6 object streams
- 119 named destinations out of 1000 (max. 500000)
- 273 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 659 PDF objects out of 1000 (max. 8388607)
+ 544 compressed objects within 6 object streams
+ 125 named destinations out of 1000 (max. 500000)
+ 318 words of extra memory for PDF output out of 10000 (max. 10000000)
 
