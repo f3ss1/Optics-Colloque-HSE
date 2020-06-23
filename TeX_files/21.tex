@@ -1,1 +1,88 @@
+% Радиус когерентности?
 \section{Пространственная когерентность. Интерференция квазимонохроматических волн протяженных источников света. Роль конечных размеров источника света. Интерференционная картина в схеме Юнга.}
+
+\subsection{Пространственная когерентность}
+
+Будем рассматривать монохроматический протяженный источник. Буквенные обозначения введены на рисунке. % Добавить рисунок
+
+Положим полную интенсивность источника $I_0$. В таком случае интенсивность единицы длины источника равна:
+
+\begin{equation*}
+	J_0 = \frac{I_0}{b}
+\end{equation*}
+
+Введем понятие апертуры интерференционной системы:
+
+\begin{equation*}
+	\Omega = \frac{d}{R_0}
+\end{equation*}
+
+Сразу же отметим, что $\alpha = d / R$. Распишем оптическую разность хода. Из рисунка она оказывается равной:
+
+\begin{equation*}
+	\Delta = \alpha x + \Omega \xi = \frac{d}{R} x + \frac{d}{R_0} \xi = \frac{d}{R} \left(x + \frac{R}{R_0} \xi\right)
+\end{equation*}
+
+Здесь $\xi$ --- высота, на которой отстоит от оси симметрии рассматриваемый нами участок источника $d \xi$.
+
+Вспомним формулу для ширины полосы:
+
+\begin{equation*}
+	\Lambda = \frac{\lambda}{\alpha} = \frac{\lambda R}{d}
+\end{equation*}
+
+Запишем теперь $dI_\xi$:
+
+\begin{equation*}
+	dI_\xi(x) = 2 J_0 d\xi (1 + \cos k \Delta) = 2 J_0 d\xi \left(1 + \cos\left[ \frac{2\pi}{\Lambda} \cdot \left(x + \frac{R}{R_0} \xi\right)\right]\right)
+\end{equation*}
+
+Тогда чтобы получить интенсивность проинтегрируем по всему источнику:
+
+\begin{equation*}
+	I(x) = 2 J_0 \int\limits_{-b/2}^{b/2}\left(1 + \cos\left[ \frac{2\pi}{\Lambda} \cdot \left(x + \frac{R}{R_0} \xi\right)\right]\right)
+\end{equation*}
+
+Введем замену:
+
+\begin{equation*}
+	q = \frac{2\pi}{\Lambda} \frac{R}{R_0}
+\end{equation*}
+
+И интеграл преобразится в (раскроем косинус и учтем, что интегрирование синуса в симметричных пределах дает 0):
+
+\begin{equation*}
+	2 J_0 b + 2 J_0 \frac{b}{b} \cos\left(\frac{2\pi}{\Lambda}\right) \cdot \int\limits_{-b/2}^{b/2} \cos (q \xi) d\xi = 2J_0 b \left[1 + \frac{\sin\left(\dfrac{q b}{2}\right)}{\dfrac{q b}{2}}\cos\left(\frac{2 \pi}{\Lambda} x\right)\right]
+\end{equation*}
+
+Преобразуем выражение $qb / 2$:
+
+\begin{equation*}
+	\frac{q b}{2} = \frac{2\pi}{\Lambda} \frac{R}{R_0} \frac{b}{2} = \frac{\pi d R b}{\lambda R R_0} = \frac{\pi \Omega}{\lambda / b}
+\end{equation*}
+
+Таким образом мы получаем, что выражение перед косинусом (которое оказывается фактически \textbf{видностью} $V(b)$ с точностью до знака) оказывается равно:
+
+\begin{equation*}
+	V(b) = \left|\frac{\sin \dfrac{\pi \Omega}{\lambda / b}}{\dfrac{\pi \Omega}{\lambda / b}}\right|
+\end{equation*}
+
+Отметим, что $V = 0$ при условии:
+
+\begin{equation*}
+	\frac{\pi \Omega}{\lambda / b} = \pi \qrq \Omega_{max} = \frac{\lambda}{b}
+\end{equation*}
+
+Итого мы видим полосы при $\Omega \le \Omega_{max} = \lambda / b$ (концом Овчинкин, например, пренебрег).
+
+Если же мы теперь зафиксируем $\Omega$ и позволим меняться $b$, то:
+
+\begin{equation*}
+	b \le b_{max} = \frac{\lambda}{\Omega} \qrq \Omega = \frac{d}{R_0} \le \frac{\lambda}{b} \qrq d \le \frac{\lambda R_0}{b} = \frac{\lambda}{\psi} = \rho_{\text{ког}}
+\end{equation*}
+
+Здесь $\rho_{\text{ког}}$ --- радиус когерентности, $\psi$ --- угловой размер источника ($\psi = b / R_0$).
+
+\subsection{Интерференция квазимонохроматических волн протяженных источников света}
+
+В лекциях про это ничего не нашел, у Овчинкина упоминается только то, что этот случай является композицией интерференции квазимонохроматических волн и интерференции протяженного источника. Картинка примерно такая: % Вставить картинку.
