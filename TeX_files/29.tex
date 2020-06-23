@@ -1,1 +1,111 @@
-123
+\section{Дифракция Френеля. Простейшие дифракционные задачи. Дифракция на круглом отверстии и круглом экране, спираль Френеля. Пятно Пуассона. Распределение освещенности в дифракционной картине в поперечном направлении и вдоль оси отверстия.}
+
+\textbf{Дифракция Френеля} (\textit{дифракция ближнего поля}) --- случай дифракции при \textit{волновом параметре} $p \approx 1$, где $p = \frac{\sqrt{L \lambda}}{d}$ ($L$ --- расстояние от препятствия, $\lambda$ --- длина волны, $d$ --- размер препятствия).
+
+\textbf{Интеграл Френеля.} Для стационарного волнового уравнения 
+
+\begin{equation}
+E(r,t) = A(r) e^{-i(\omega t - \phi (r))}
+\end{equation}
+
+определим \textit{комплексную амплитуду} $f(r) = A(r)e^{i\phi(r)}$, которая удовлетворяет \textit{уравнению Гельмгольца}:
+
+\begin{equation}
+\delta f + k^2 f = 0, \mbox{где } k = \frac{\omega}{c}=\frac{2\pi}{\lambda}.
+\end{equation}
+
+Рассмотрим (для простоты) сферическую поверхность $S$ вокруг источника света $L$:
+
+\begin{figure}[H]
+	\centering
+	\includegraphics*[width=0.3\textwidth]{Frenel}
+\end{figure}
+
+В соответствии с \textbf{принципом Гюйгенса-Френеля} элементарная площадка $ds$ является источником вторичной сферической волны $\sim f_s \frac{e^{ik\rho}}{\rho}$, полная амплитуда которой пропорциональна площади $ds$. 
+Таким образом, полную волну, доходящую до точки $P$, можно представить в виде $$df_P = f_s \frac{e^{ik\rho}}{\rho} K(\alpha),$$ где $K(\alpha)$ учитывает ориентацию площадки к направлению на точку $P$.
+Результирующая волна в точке $P$ задается \textbf{интегралом Френеля}:
+$$f_p = \int_{S}K(\alpha)f_s\frac{e^{ik\rho}}{\rho}ds, \mbox{где } f_s=f_0\frac{e^{ikr_0}}{r_0}.$$
+Найдём вид зависимости $K(\alpha)$. Рассмотрим плоскую волну с амплитудой $f_0$. Результирующую волну в точке $P$ найдем как интеграл от кольцевых областей с радиусом $\rho$ (см. рис).
+\begin{figure}[H]
+	\centering
+	\includegraphics*[width=0.3\textwidth]{Ka}
+\end{figure}
+
+$$
+r^2 = \rho^2 + z^2 \Rightarrow rdr = \rho d\rho
+$$
+$$
+K(\alpha) = K_0 \cos{\alpha} = K_0 \frac {z}{r}
+$$
+Тогда интеграл Френеля
+$$f_p = \int_{S}K(\alpha)f_s\frac{e^{ik\rho}}{\rho}ds = f_0 K_0 \int_{z}^{\infty}\frac{e^{ikr}}{r}\frac{z}{r}2\pi rdr = - 2\pi f_0K_0\frac{e^{ikz}}{ik},$$
+где учли затухание волны на бесконечности (для сходимости на верхнем пределе). Сравнивая с $f_p = f_0 e^{ikz}$, получаем $$K_0 = \frac{1}{ik} \Rightarrow K(\alpha)=\frac{\cos{\alpha}}{ik}.$$
+
+\textbf{Дифракция на круглом отверстии.}
+\begin{figure}[H]
+	\centering
+	\includegraphics*[width=0.4\textwidth]{Dot}
+\end{figure}
+$$f_p = 2\pi f_0 K(0) \int_{z}^{\sqrt{z^2+R^2}} e^{ikr}dr = - f_0(e^{ik\sqrt{z^2+R^2}}- e^{ikz})$$
+Интенсивность $ I_P = |f_p|^2 = 2I_0 (1 - \cos{[k(\sqrt{z^2+R^2}-z^2)]})$. Для параксиальных пучков $R \ll z: \sqrt{z^2+R^2}-z^2 \approx \frac{R^2}{2z}$.
+$$I_p = 4I_0\sin^2{(\frac{\pi R^2}{2z\lambda})}$$
+$$
+$$
+\textbf{Дифракция на круглом экране.}
+\begin{figure}[H]
+	\centering
+	\includegraphics*[width=0.3\textwidth]{Ekran}
+\end{figure}
+
+$$f_p = f_0 \frac {z}{i\lambda} \int_{\sqrt{\rho^2 + r^2}}^{\infty}\frac{e^{ikr}}{r}dr = f_0 \frac{ze^{ik\sqrt{\rho^2+z^2}}}{\sqrt{\rho^2+z^2}}$$
+Тогда распределение интенсовности на оси $I(z) = I_0 \frac{z^2}{\rho^2+z^2}$
+\begin{figure}[H]
+	\centering
+	\includegraphics*[width=0.5\textwidth]{I(z)}
+	\includegraphics*[width=0.2\textwidth]{Puasson}
+\end{figure}
+
+При большом удалении от экрана в центре геометрической тени будет наблюдаться светлое пятно исходной интенсивности $I_0$ --- \textbf{пятно Пуассона}.
+$$
+$$
+\textbf{Зоны Френеля.} Проведем из точки наблюдения $B$ серию сферических поверхностей, первая из которых (с радиусом $r_0$) касается волнового фронта $S$. Радиусы следующих поверхностей отличаются друг от друга на $\frac{\lambda} {2}$.
+Эти сферы разбивают волновой фронт на кольцевые области - \textit{зоны Френеля}.
+\begin{figure}[H]
+	\centering
+	\includegraphics*[width=0.4\textwidth]{Zones3}
+\end{figure}
+Найдём радиусы зон Френеля. Число зон, укладывающихся на открытой части волнового фронта есть $$m = \frac{A_1B_1}{\lambda\setminus 2}$$
+Найдём $A_1B_1$: $$R_1^2 = a^2 + D^2 \Rightarrow R_1 - a = \frac{D^2}{R_1 + a} \approx \frac{D^2}{2a} $$ 
+$$R_2^2 = b^2 + D^2 \Rightarrow R_2 - b = \frac{D^2}{R_2 + b} \approx \frac{D^2}{2b}$$
+$$A_1B_1 = (R_1 - a) + (R_2 - b) = \frac{D^2}{2} (\frac 1{a} + \frac 1{b})	\Rightarrow m = \frac{D^2}{\lambda} (\frac 1{a} + \frac 1{b})$$
+Радиус $m$-ой зоны $r_m = \sqrt{m\lambda \frac{ab}{a+b}}$
+	
+Найдём площадь зон Френеля. $d^2 = R^2 - (R-x)^2 = (r_0 + \frac{\lambda} {2})^2 - (r_0+x)^2 \Rightarrow x = \frac{r_0}{R+r_0} \frac{\lambda}{2}\\$
+Площадь сферического сегмента $2\pi R x = \frac{Rr_0}{R+r_0}\lambda$.\\ \textit{Каждая из последующих зон имеет ту же площадь.}
+\begin{figure}[H]
+	\centering
+	\includegraphics*[width=0.5\textwidth]{Zones2}
+\end{figure}
+
+Из-за разности радиусов сферических поверхностей соседних зон Френеля на $\frac{\lambda} {2}$ волны от них приходят в противоположных фазах, т.е. действия соседних зон ослабевают друг друга. Результирующая волна от всех зон Френеля в точке В есть
+$$f_B = f_1 - f_2 + f_3 -... = \frac 1{2} f_1 +(\frac 1{2} f_1 - f_2 + \frac 1{2} f_3) + (\frac 1{2} f_3 - f_4 +\frac 1{2} f_5)+...+(-1)^{n+1}\frac 1{2} f_n$$\\
+Так как амплитуды волн из соседних зон почти равны, получаем $$f_B = \frac 1{2} f_1$$ --- \textit{амплитуда результирующей волны в отсутствие препятствий есть половина амплитуды волны первой зоны Френеля.}
+$$
+$$
+\textbf{Графический метод суммирования амплитуд} --- \textit{спираль Френеля}
+Рассмотрим первую зону Френеля и разобьем её на $n$ колец равной площади. Представим действие каждой подзоны в виде вектора, длина которого равна амплитуде волны, а угол поворота --- фазе, и расположим векторы последовательных подзон друг за другом.
+\begin{figure}[H]
+	\centering
+	\includegraphics*[width=0.3\textwidth]{Zones}
+	\includegraphics*[width=0.3\textwidth]{44}
+\end{figure}
+
+Устремим $n$ к бесконечности и учтём вклады всех зон. Получим \textit{спираль Френеля}.
+$$
+$$
+\textit{Как пользоваться:}
+
+\begin{figure}[H]
+	\centering
+	\includegraphics*[width=\textwidth]{HowToUse}
+\end{figure}
