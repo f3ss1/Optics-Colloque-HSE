@@ -1,1 +1,153 @@
-123
+
+
+\section{Временная когерентность. Интерференция немонохроматических волн. Время и длина когерентности. Соотношения между временем когерентности и шириной спектрального интервала.}
+\subsection{Интерференция немонохроматических волн}
+\subsubsection{Корегентность}
+
+Две волны называются \textit{когерентными}, если разность их фаз является постоянной. Когерентными являются две монохроматические волны, если только они имеют одинаковые частоты.
+
+Если разность фаз волн меняется со временем, то эти волны называются \textit{некогерентными}.
+\subsubsection{Время и длина когерентности}
+
+Рассмотрим сложение двух волн с разными частотами $\omega_1$ и $\omega_2$.
+
+Временем когерентности называется такое время, в течение которого разность фаз рассматриваемых волн меняется незначительно. В случае двух волн
+
+\begin{equation*}
+    A_1 = a_1 \cos(\omega_1 t + \alpha_1)
+\end{equation*}
+
+\begin{equation*}
+    A_2 = a_2 \cos(\omega_2 t + \alpha_2)
+\end{equation*}
+
+разность фаз равна
+
+\begin{equation*}
+    \Delta \phi = \Delta \omega \cdot t + \Delta \alpha, \Delta \omega = \omega_1 - \omega_2, \Delta \alpha = \alpha_1 - \alpha_2
+\end{equation*}
+
+Когда сдвиг фаз составит $\Delta \omega \cdot t \sim \pi$, волны уже нельзя считать когерентными. Поэтому время когерентности определяется условием
+
+\begin{equation*}
+    \Delta \phi(t+t_{\text{ког}} - \Delta \phi(t) \sim \pi
+\end{equation*}
+
+\begin{equation*}
+    t_{\text{ког}} \sim \frac{\pi}{\Delta \omega}
+\end{equation*}
+
+Переходя от частоты к длине волны по формуле $\omega = \frac{2\pi c}{\lambda}$ и считая $\Delta \omega \ll \omega$ , получим
+
+\begin{equation*}
+    t_{\text{ког}} \sim \frac{\lambda^2}{2c\Delta \lambda}
+\end{equation*}
+
+
+Длина когерентности - путь, проходимый волнами за время когерентности. Она составляет
+
+
+
+\begin{equation*}
+    l_{\text{ког}} = c t_{\text{ког}} \sim \frac{\lambda ^2}{2\Delta \lambda}
+\end{equation*}
+
+\subsubsection{Связь времени когерентности с шириной спектра}
+
+Представим волновой пакет в виде суперпозиции монохроматических волн:
+
+\begin{equation*}
+    A(t) = \int_{-\infty}^{\infty} a(\omega)e^{-i\omega t} \frac{d\omega}{2\pi},\hspace{10px} a(\omega) = \int_{-\infty}^{\infty} A(t)e^{i\omega t}dt 
+\end{equation*}
+
+
+Пусть фурье-спектр сигнала дается выражением
+\begin{equation*}
+    a(\omega) = \begin{cases}
+   a_0, |\omega-\omega_0| < \frac{\Delta \omega}{2}, \\
+   0, |\omega-\omega_0| > \frac{\Delta \omega}{2}.
+ \end{cases}
+\end{equation*}
+
+Соответствующая временная зависимость сигнала определится по первой формуле:
+
+\begin{equation*}
+    A(t) = \int_{-\infty}^{\infty} a(\omega)e^{-i\omega t} \frac{d\omega}{2\pi},\hspace{10px} \frac{a_0}{2\pi}\int_{\omega_0-\Delta\omega/2}^{\omega_0-\Delta\omega/2}e^{-i\omega t} d\omega = a_0 e^{-i\omega_0 t} F(t),
+ \end{equation*}   
+    
+Здесь введена функция
+\begin{equation*}
+    F(t) = \frac{1}{2\pi it }\left(e^{i\Delta\omega t/2} - e^{-i\Delta\omega t/2}\right) = F_m\frac{\sin(\Delta\omega\cdot t/2)}{(\Delta\omega\cdot t/2)},
+\end{equation*}
+
+где $F_m(t) = \frac{\Delta \omega}{2\pi}$.
+
+\medskip
+
+Функция $F(t)$ обращается в первый раз в нуль при $\frac{\Delta \omega \cdot t}{2} = \pi$,  то есть в момент времени
+
+\begin{equation*}
+    t = \tau = \frac{2\pi}{\Delta \omega}.
+\end{equation*}
+
+Эта величина есть характерное время существования волнового пакета - время когерентности.
+\subsection{Влияние немонохроматичности на наблюдаемое число интерференцционных полос}
+
+Сигнал называется квазимонозроматическим, если его можно представить в виде
+
+\begin{equation*}
+    A(t) = a(t)\cos(\omega_0t+\phi(t)),
+\end{equation*}
+
+
+где амплитуда a(t) и фаза $\phi(t)$ - медленно меняющиеся функции.
+
+\bigskip
+
+Можно наблюдать интерференционную картину от квазимонозроматического источника. Действительно, свет, испускаемый таким источником, представляет собой суперпозицию монохроматических волн. Каждую из них можно расщепить на две волны(например, с помощью схемы Юнга), тогда получаемая в конце пара когерентных волн уже создает интерференционную картину.
+
+Интерференционная каартина от всего спектра получается наложением интерференционных картин от отдельных компонент спектра. Однако, период отдельных картин зависит от соответствующей длины волны, поэтому положение максимумов и минимумов различно для разных компонент спектра. Это ограничивает общее число наблюдаемых полос от источника.
+
+\bigskip
+
+Рассмотрим компоненту спектра с длиной волны $\lambda$. Разность хода в опыте Юнга составляет
+\begin{equation*}
+    \delta \approx \frac{xd}{L}
+\end{equation*}
+
+Максимумы интерференционной картины наблюдаются в точках, для которыз $\delta = m\lambda$
+
+\begin{equation*}
+    x_m^{(max)} = \frac{\lambda L}{d}m.
+\end{equation*}
+
+Таким рьпащрм, ширина интерференционной полосы равна
+
+\begin{equation*}
+    \Delta x = \frac{\lambda L}{d}
+\end{equation*}
+
+Учтем, что источник создает немонохроматический свет в спектральном диапазоне $\Delta \lambda$. Для такого света длина когерентности есть
+
+\begin{equation*}
+    l_{\text{ког}} \sim \frac{\lambda^2}{\Delta \lambda}.
+\end{equation*}
+
+Максимальная разность хода лучей $\delta$, при которой они еще могут считаться когерентными, не должна превышать $l_{\text{ког}}$:
+
+\begin{equation*}
+    \delta < l_{\text{ког}}.
+\end{equation*}
+
+Отсюда наибольший порядок интерференции:
+
+\begin{equation*}
+    \delta_{max} = m_{max} \lambda \sim \frac{\lambda^2}{\Delta \lambda}  \Rightarrow m_{max} \sim \frac{\lambda}{\Delta\lambda}.
+\end{equation*}
+
+Тогда максимальное число наблюдаемых полос интерференции составляет
+
+\begin{equation*}
+    2m_{max}+1 \sim \frac{2\lambda}{\Delta\lambda}.
+\end{equation*}
+
