@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.8.8)  25 JUN 2020 09:06
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.8.8)  25 JUN 2020 09:13
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1097,7 +1097,58 @@ LaTeX Warning: Label `fig:my_label' multiply defined.
 LaTeX Warning: Label `series3' multiply defined.
 
 
+LaTeX Warning: Label `fig:my_label' multiply defined.
+
+
+LaTeX Warning: Label `fig:my_label' multiply defined.
+
+
+LaTeX Warning: Label `fig:my_label' multiply defined.
+
+
+LaTeX Warning: Label `fig:my_label' multiply defined.
+
+
 LaTeX Warning: Label `.' multiply defined.
+
+
+LaTeX Warning: Label `fig:my_label' multiply defined.
+
+
+LaTeX Warning: Label `fig:my_label' multiply defined.
+
+
+LaTeX Warning: Label `fig:my_label' multiply defined.
+
+
+LaTeX Warning: Label `fig:my_label' multiply defined.
+
+
+LaTeX Warning: Label `qr' multiply defined.
+
+
+LaTeX Warning: Label `fig:image' multiply defined.
+
+
+LaTeX Warning: Label `qr' multiply defined.
+
+
+LaTeX Warning: Label `fig:image' multiply defined.
+
+
+LaTeX Warning: Label `qr' multiply defined.
+
+
+LaTeX Warning: Label `fig:image' multiply defined.
+
+
+LaTeX Warning: Label `rj' multiply defined.
+
+
+LaTeX Warning: Label `qr' multiply defined.
+
+
+LaTeX Warning: Label `fig:image' multiply defined.
 
 )
 \openout1 = `main.aux'.
@@ -1233,7 +1284,7 @@ LaTeX Font Info:    Font shape `U/lasy/b/n' in size <8> not available
 LaTeX Font Info:    Font shape `U/lasy/b/n' in size <6> not available
 (Font)              Font shape `U/lasy/m/n' tried instead on input line 169.
 <<t2a.cmap>>
-<Pictures/HSElogo.pdf, id=414, 597.50786pt x 845.04686pt>
+<Pictures/HSElogo.pdf, id=687, 597.50786pt x 845.04686pt>
 File: Pictures/HSElogo.pdf Graphic file (type pdf)
 <use Pictures/HSElogo.pdf>
 Package pdftex.def Info: Pictures/HSElogo.pdf  used on input line 184.
@@ -1258,61 +1309,85 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.30 ...IeC {\cyrr }\IeC {\cyra }.}{24}{section.7}
-                                                  % [1] [2] [3]
-Overfull \hbox (1.4353pt too wide) in paragraph at lines 96--96
+l.30 ...IeC {\cyrr }\IeC {\cyra }.}{27}{section.7}
+                                                  % [1]
+Overfull \hbox (49.2565pt too wide) in paragraph at lines 53--53
+ [] [][][]\T2A/cmr/bx/n/12 Поляризационные устрой-ства: кри-стал-ли-че-ские фа-
+зо-вые пла-стин-ки(четверьволновые 
+ []
+
+[2] [3]
+Overfull \hbox (1.4353pt too wide) in paragraph at lines 105--105
  [] [][][]\T2A/cmr/bx/n/12 Двухлучевые ин-тер-фе-ро-мет-ры. Ин-тер-фе-ро-мет-ры
  Рэ-лея, Маха-Цендера, Май- 
+ []
+
+[4]
+Overfull \hbox (2.57802pt too wide) in paragraph at lines 135--135
+ \T2A/cmr/bx/n/12 (при-ме-ни-тель-но к фор-ми-ро-ва-нию изоб-ра-же-ний). Ди-фра
+к-ци-он-ный пре-дел раз- 
+ []
+
+[5]
+Overfull \hbox (5.3427pt too wide) in paragraph at lines 149--149
+ [] [][][]\T2A/cmr/bx/n/12 Закон Стефана-Больцмана, фор-му-ла сме-ще-ния Ви-на.
+ Фор-му-ла Рэлея-Джинса. 
+ []
+
+
+Overfull \hbox (33.36847pt too wide) in paragraph at lines 164--164
+ [] [][][]\T2A/cmr/bx/n/12 Рассеяние све-та, за-ви-си-мость ин-тен-сив-но-сти р
+ас-се-ян-но-го све-та от ча-сто-ты(формула 
  []
 
 )
 \tf@toc=\write5
 \openout5 = `main.toc'.
 
- [4] (./TeX_files/1.tex [5]
-<Pictures/Snellius.png, id=619, 169.13188pt x 190.21063pt>
+ [6] (./TeX_files/1.tex [7]
+<Pictures/Snellius.png, id=1001, 169.13188pt x 190.21063pt>
 File: Pictures/Snellius.png Graphic file (type png)
 <use Pictures/Snellius.png>
 Package pdftex.def Info: Pictures/Snellius.png  used on input line 58.
 (pdftex.def)             Requested size: 256.07481pt x 287.99992pt.
-) [6 <./Pictures/Snellius.png>] (./TeX_files/2.tex
-<Pictures/2_1.png, id=632, 546.04pt x 425.59pt>
+) [8 <./Pictures/Snellius.png>] (./TeX_files/2.tex
+<Pictures/2_1.png, id=1013, 546.04pt x 425.59pt>
 File: Pictures/2_1.png Graphic file (type png)
 <use Pictures/2_1.png>
 Package pdftex.def Info: Pictures/2_1.png  used on input line 18.
 (pdftex.def)             Requested size: 163.81326pt x 127.67798pt.
 
-[7 <./Pictures/2_1.png>]
-<Pictures/2_2.jpg, id=642, 166.7028pt x 109.3686pt>
+[9 <./Pictures/2_1.png>]
+<Pictures/2_2.jpg, id=1023, 166.7028pt x 109.3686pt>
 File: Pictures/2_2.jpg Graphic file (type jpg)
 <use Pictures/2_2.jpg>
 Package pdftex.def Info: Pictures/2_2.jpg  used on input line 40.
 (pdftex.def)             Requested size: 166.70238pt x 109.36832pt.
-<Pictures/2_3.png, id=643, 569.12625pt x 853.1875pt>
+<Pictures/2_3.png, id=1024, 569.12625pt x 853.1875pt>
 File: Pictures/2_3.png Graphic file (type png)
 <use Pictures/2_3.png>
 Package pdftex.def Info: Pictures/2_3.png  used on input line 46.
 (pdftex.def)             Requested size: 170.73918pt x 255.95822pt.
-) [8 <./Pictures/2_2.jpg> <./Pictures/2_3.png>]
+) [10 <./Pictures/2_2.jpg> <./Pictures/2_3.png>]
 (./TeX_files/3.tex
 Overfull \hbox (0.8028pt too wide) in paragraph at lines 1--1
 \T2A/cmr/bx/n/17.28 ра-же-ния. Ли-ней-ное (по-пе-реч-ное) уве-ли-че-ние. Оп-ти-
 че-ская
  []
 
-[9]
-<Pictures/3_1.jpg, id=664, 467.7475pt x 219.82124pt>
+[11]
+<Pictures/3_1.jpg, id=1044, 467.7475pt x 219.82124pt>
 File: Pictures/3_1.jpg Graphic file (type jpg)
 <use Pictures/3_1.jpg>
 Package pdftex.def Info: Pictures/3_1.jpg  used on input line 48.
 (pdftex.def)             Requested size: 358.50317pt x 168.48805pt.
- [10 <./Pictures/3_1.jpg>] [11]) [12] (./TeX_files/4.tex
+ [12 <./Pictures/3_1.jpg>] [13]) [14] (./TeX_files/4.tex
 Overfull \hbox (4.21024pt too wide) in paragraph at lines 2--2
 []\T2A/cmr/bx/n/17.28 Построение изоб-ра-же-ний. Цен-три-ро-ван-ная оп-ти-че-ск
 ая си-
  []
 
-<Pictures/kartin_ochka.png, id=696, 489.027pt x 196.93575pt>
+<Pictures/kartin_ochka.png, id=1076, 489.027pt x 196.93575pt>
 File: Pictures/kartin_ochka.png Graphic file (type png)
 <use Pictures/kartin_ochka.png>
 Package pdftex.def Info: Pictures/kartin_ochka.png  used on input line 40.
@@ -1320,13 +1395,13 @@ Package pdftex.def Info: Pictures/kartin_ochka.png  used on input line 40.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[13] [14 <./Pictures/kartin_ochka.png>]
-<Pictures/mirror.png, id=706, 531.78674pt x 194.52675pt>
+[15] [16 <./Pictures/kartin_ochka.png>]
+<Pictures/mirror.png, id=1086, 531.78674pt x 194.52675pt>
 File: Pictures/mirror.png Graphic file (type png)
 <use Pictures/mirror.png>
 Package pdftex.def Info: Pictures/mirror.png  used on input line 127.
 (pdftex.def)             Requested size: 425.42998pt x 155.6216pt.
- [15 <./Pictures/mirror.png>]) [16]
+ [17 <./Pictures/mirror.png>]) [18]
 (./TeX_files/5.tex
 LaTeX Font Info:    Try loading font information for OMS+cmr on input line 12.
  (/usr/local/texlive/2019/texmf-dist/tex/latex/base/omscmr.fd
@@ -1334,18 +1409,18 @@ File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 12.
- [17]
-<Pictures/5_sferober.png, id=733, 963.6pt x 344.28625pt>
+ [19]
+<Pictures/5_sferober.png, id=1115, 963.6pt x 344.28625pt>
 File: Pictures/5_sferober.png Graphic file (type png)
 <use Pictures/5_sferober.png>
 Package pdftex.def Info: Pictures/5_sferober.png  used on input line 50.
 (pdftex.def)             Requested size: 346.89574pt x 123.94295pt.
- [18 <./Pictures/5_sferober.png>]
+ [20 <./Pictures/5_sferober.png>]
 Underfull \hbox (badness 1242) in paragraph at lines 130--131
 \T2A/cmr/m/n/12 точ-ки схо-да уда-лјн-ные от фо-каль-ной
  []
 
-<Pictures/5_coma.png, id=749, 301.125pt x 181.67876pt>
+<Pictures/5_coma.png, id=1130, 301.125pt x 181.67876pt>
 File: Pictures/5_coma.png Graphic file (type png)
 <use Pictures/5_coma.png>
 Package pdftex.def Info: Pictures/5_coma.png  used on input line 136.
@@ -1356,15 +1431,15 @@ Underfull \hbox (badness 10000) in paragraph at lines 134--139
 смот-ри вы-ше).
  []
 
-[19 <./Pictures/5_coma.png>]
-<Pictures/5_sfer_kor.png, id=760, 677.53125pt x 571.13374pt>
+[21 <./Pictures/5_coma.png>]
+<Pictures/5_sfer_kor.png, id=1141, 677.53125pt x 571.13374pt>
 File: Pictures/5_sfer_kor.png Graphic file (type png)
 <use Pictures/5_sfer_kor.png>
 Package pdftex.def Info: Pictures/5_sfer_kor.png  used on input line 222.
 (pdftex.def)             Requested size: 304.88625pt x 257.00781pt.
- [20 <./Pictures/5_sfer_kor.png>]) [21]
+ [22 <./Pictures/5_sfer_kor.png>]) [23]
 (./TeX_files/6.tex
-<Pictures/6_3.png, id=775, 854.19125pt x 383.4325pt>
+<Pictures/6_3.png, id=1155, 854.19125pt x 383.4325pt>
 File: Pictures/6_3.png Graphic file (type png)
 <use Pictures/6_3.png>
 Package pdftex.def Info: Pictures/6_3.png  used on input line 7.
@@ -1373,34 +1448,34 @@ Package pdftex.def Info: Pictures/6_3.png  used on input line 7.
 
 pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./Pictures/6_1.pdf): PDF inc
 lusion: found PDF version <1.6>, but at most version <1.5> allowed
-<Pictures/6_1.pdf, id=776, 845.1575pt x 597.45204pt>
+<Pictures/6_1.pdf, id=1156, 845.1575pt x 597.45204pt>
 File: Pictures/6_1.pdf Graphic file (type pdf)
 <use Pictures/6_1.pdf>
 Package pdftex.def Info: Pictures/6_1.pdf  used on input line 15.
 (pdftex.def)             Requested size: 512.14963pt x 362.05672pt.
-[22 <./Pictures/6_3.png>]
-<Pictures/6_2.png, id=783, 410.53375pt x 251.94125pt>
+[24 <./Pictures/6_3.png>]
+<Pictures/6_2.png, id=1164, 410.53375pt x 251.94125pt>
 File: Pictures/6_2.png Graphic file (type png)
 <use Pictures/6_2.png>
 Package pdftex.def Info: Pictures/6_2.png  used on input line 39.
 (pdftex.def)             Requested size: 512.14963pt x 314.32607pt.
-) [23 <./Pictures/6_1.pdf, page is rotated 270 degrees>] [24 <./Pictures/6_2.pn
+) [25 <./Pictures/6_1.pdf, page is rotated 270 degrees>] [26 <./Pictures/6_2.pn
 g>] (./TeX_files/7.tex
 Underfull \hbox (badness 10000) in paragraph at lines 5--6
 
  []
 
-[25]
+[27]
 Underfull \hbox (badness 10000) in paragraph at lines 43--45
 
  []
 
-<Pictures/7_1.png, id=808, 1100.11pt x 764.8575pt>
+<Pictures/7_1.png, id=1188, 1100.11pt x 764.8575pt>
 File: Pictures/7_1.png Graphic file (type png)
 <use Pictures/7_1.png>
 Package pdftex.def Info: Pictures/7_1.png  used on input line 66.
 (pdftex.def)             Requested size: 330.03555pt x 229.45901pt.
-[26]) [27 <./Pictures/7_1.png>] (./TeX_files/8.tex
+[28]) [29 <./Pictures/7_1.png>] (./TeX_files/8.tex
 Overfull \hbox (7.23068pt too wide) in paragraph at lines 3--3
 \T2A/cmr/bx/n/17.28 ность элек-тро-маг-нит-ной вол-ны. Вза-им-ная ори-ен-та-ция
  вол-
@@ -1461,7 +1536,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 24--25
 
  []
 
-[28]
+[30]
 Underfull \hbox (badness 10000) in paragraph at lines 47--49
 
  []
@@ -1476,7 +1551,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 51--53
 
  []
 
-[29]
+[31]
 Underfull \hbox (badness 10000) in paragraph at lines 70--71
 
  []
@@ -1501,24 +1576,24 @@ Underfull \hbox (badness 10000) in paragraph at lines 102--104
 
  []
 
-[30]
+[32]
 Underfull \hbox (badness 10000) in paragraph at lines 119--121
 
  []
 
-<Pictures/Viner.png, id=832, 366.61969pt x 450.18187pt>
+<Pictures/Viner.png, id=1213, 366.61969pt x 450.18187pt>
 File: Pictures/Viner.png Graphic file (type png)
 <use Pictures/Viner.png>
 Package pdftex.def Info: Pictures/Viner.png  used on input line 127.
 (pdftex.def)             Requested size: 183.30939pt x 225.09038pt.
-) [31 <./Pictures/Viner.png>] [32] (./TeX_files/9.tex [33]) [34]
+) [33 <./Pictures/Viner.png>] [34] (./TeX_files/9.tex [35]) [36]
 (./TeX_files/10.tex
 Overfull \hbox (9.03584pt too wide) in paragraph at lines 1--1
 \T2A/cmr/bx/n/17.28 ные за-ви-си-мо-стью по-ка-за-те-ля пре-лом-ле-ния от дли-н
 ы вол-
  []
 
-[35]
+[37]
 Underfull \hbox (badness 1502) in paragraph at lines 81--153
 \T2A/cmr/m/n/12 ство мо-но-хро-ма-ти-че-ских изоб-ра-же-ний,
  []
@@ -1527,62 +1602,148 @@ Underfull \hbox (badness 1502) in paragraph at lines 81--153
 Package wrapfig Warning: Collision between wrapping environments on input line 
 154.
 
-[36]) [37] (./TeX_files/11.tex
+[38]) [39] (./TeX_files/11.tex
 Overfull \hbox (4.38193pt too wide) in paragraph at lines 1--1
 \T2A/cmr/bx/n/17.28 элек-три-ков. Со-от-но-ше-ния ам-пли-туд па-да-ю-щей, от-ра
 -жен-
  []
 
-[38]
-<Pictures/11_1.png, id=880, 361.35pt x 310.15875pt>
+[40]
+<Pictures/11_1.png, id=1260, 361.35pt x 310.15875pt>
 File: Pictures/11_1.png Graphic file (type png)
 <use Pictures/11_1.png>
 Package pdftex.def Info: Pictures/11_1.png  used on input line 71.
 (pdftex.def)             Requested size: 245.82962pt x 211.00453pt.
-<Pictures/11_2.png, id=881, 360.34625pt x 312.16624pt>
+<Pictures/11_2.png, id=1261, 360.34625pt x 312.16624pt>
 File: Pictures/11_2.png Graphic file (type png)
 <use Pictures/11_2.png>
 Package pdftex.def Info: Pictures/11_2.png  used on input line 74.
 (pdftex.def)             Requested size: 245.82962pt x 212.9609pt.
- [39 <./Pictures/11_1.png> <./Pictures/11_2.png>]) [40] (./TeX_files/12.tex
+ [41 <./Pictures/11_1.png> <./Pictures/11_2.png>]) [42] (./TeX_files/12.tex
 Overfull \hbox (1.00014pt too wide) in paragraph at lines 1--1
 []\T2A/cmr/bx/n/17.28 Поляризация от-ра-жен-ной и пре-лом-лен-ной волн. Сте-пен
 ь
  []
 
-<Pictures/Otr.png, id=895, 702.2235pt x 334.851pt>
+<Pictures/Otr.png, id=1276, 702.2235pt x 334.851pt>
 File: Pictures/Otr.png Graphic file (type png)
 <use Pictures/Otr.png>
 Package pdftex.def Info: Pictures/Otr.png  used on input line 7.
 (pdftex.def)             Requested size: 512.14963pt x 244.2246pt.
-[41 <./Pictures/Otr.png>]
-<Pictures/ParFar.png, id=903, 375.804pt x 177.66376pt>
+[43 <./Pictures/Otr.png>]
+<Pictures/ParFar.png, id=1284, 375.804pt x 177.66376pt>
 File: Pictures/ParFar.png Graphic file (type png)
 <use Pictures/ParFar.png>
 Package pdftex.def Info: Pictures/ParFar.png  used on input line 36.
 (pdftex.def)             Requested size: 204.85672pt x 96.84785pt.
-<Pictures/Bruster.png, id=905, 372.1905pt x 115.02975pt>
+<Pictures/Bruster.png, id=1286, 372.1905pt x 115.02975pt>
 File: Pictures/Bruster.png Graphic file (type png)
 <use Pictures/Bruster.png>
 Package pdftex.def Info: Pictures/Bruster.png  used on input line 57.
 (pdftex.def)             Requested size: 512.14963pt x 158.28487pt.
- [42 <./Pictures/ParFar.png>]
-<Pictures/Stoletov.png, id=914, 283.65974pt x 199.947pt>
+ [44 <./Pictures/ParFar.png>]
+<Pictures/Stoletov.png, id=1294, 283.65974pt x 199.947pt>
 File: Pictures/Stoletov.png Graphic file (type png)
 <use Pictures/Stoletov.png>
 Package pdftex.def Info: Pictures/Stoletov.png  used on input line 72.
 (pdftex.def)             Requested size: 204.85672pt x 144.40105pt.
-) [43 <./Pictures/Bruster.png> <./Pictures/Stoletov.png>] (./TeX_files/13.tex) 
-[44] (./TeX_files/14.tex) [45] (./TeX_files/15.tex
+) [45 <./Pictures/Bruster.png> <./Pictures/Stoletov.png>] (./TeX_files/13.tex) 
+[46] (./TeX_files/14.tex
+Overfull \hbox (2.90779pt too wide) in paragraph at lines 3--3
+[]\T2A/cmr/bx/n/17.28 Поляризационные устрой-ства: кри-стал-ли-че-ские фа-зо-вы
+е
+ []
+
+
+Overfull \hbox (5.39565pt too wide) in paragraph at lines 3--3
+\T2A/cmr/bx/n/17.28 пла-стин-ки(четверьволновые и по-лу-вол-но-вые пла-стин-ки)
+,
+ []
+
+LaTeX Font Info:    Font shape `U/lasy/b/n' in size <7> not available
+(Font)              Font shape `U/lasy/m/n' tried instead on input line 6.
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 6.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\begingroup' on input line 6.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\lambda' on input line 6.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\endgroup' on input line 6.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\@@over' on input line 6.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 6.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 6.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\begingroup' on input line 6.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\lambda' on input line 6.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\endgroup' on input line 6.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\@@over' on input line 6.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 6.
+
+[47]
+<Pictures/nicole.png, id=1314, 308.352pt x 121.05225pt>
+File: Pictures/nicole.png Graphic file (type png)
+<use Pictures/nicole.png>
+Package pdftex.def Info: Pictures/nicole.png  used on input line 107.
+(pdftex.def)             Requested size: 308.35124pt x 121.05194pt.
+ [48 <./Pictures/nicole.png>]
+<Pictures/glan.png, id=1322, 281.853pt x 130.68825pt>
+File: Pictures/glan.png Graphic file (type png)
+<use Pictures/glan.png>
+Package pdftex.def Info: Pictures/glan.png  used on input line 118.
+(pdftex.def)             Requested size: 281.85231pt x 130.68791pt.
+ [49 <./Pictures/glan.png>]
+<Pictures/volastone.png, id=1329, 137.313pt x 118.64325pt>
+File: Pictures/volastone.png Graphic file (type png)
+<use Pictures/volastone.png>
+Package pdftex.def Info: Pictures/volastone.png  used on input line 131.
+(pdftex.def)             Requested size: 137.31265pt x 118.64294pt.
+ [50 <./Pictures/volastone.png>]
+<Pictures/polar.png, id=1337, 328.22626pt x 147.55125pt>
+File: Pictures/polar.png Graphic file (type png)
+<use Pictures/polar.png>
+Package pdftex.def Info: Pictures/polar.png  used on input line 154.
+(pdftex.def)             Requested size: 328.22545pt x 147.55087pt.
+) [51 <./Pictures/polar.png>] (./TeX_files/15.tex
 Overfull \hbox (6.46407pt too wide) in paragraph at lines 3--5
 []\T2A/cmr/m/it/12 Явление пре-лом-ле-ния плос-ко-сти по-ля-ри-за-ции \T2A/cmr/
 m/n/12 за-клю-ча-ет-ся в том, что в плоско-параллельных
  []
 
-[46]
+[52]
 LaTeX Font Info:    Font shape `U/lasy/b/n' in size <5> not available
 (Font)              Font shape `U/lasy/m/n' tried instead on input line 66.
- [47]
+ [53]
 Overfull \hbox (3.58716pt too wide) in paragraph at lines 79--80
 \T2A/cmr/m/n/12 жет на-блю-дать-ся двой-ное лу-че-пре-лом-ле-ние, вслед-ствие и
 з-ме-не-ния по-ля-ри-за-ции ве-ще-ства. Пусть
@@ -1596,18 +1757,18 @@ Missing character: There is no Н in font cmr12!
 LaTeX Warning: Command \CYRT invalid in math mode on input line 86.
 
 Missing character: There is no Т in font cmr12!
-) [48] (./TeX_files/16.tex
+) [54] (./TeX_files/16.tex
 Overfull \hbox (14.6075pt too wide) in paragraph at lines 1--1
 \T2A/cmr/bx/n/17.28 че-ских волн. Ин-тер-фе-рен-ция плос-кой и сфе-ри-че-ской в
 олн.
  []
 
-<Pictures/16_1.png, id=954, 562.1pt x 262.9825pt>
+<Pictures/16_1.png, id=1365, 562.1pt x 262.9825pt>
 File: Pictures/16_1.png Graphic file (type png)
 <use Pictures/16_1.png>
 Package pdftex.def Info: Pictures/16_1.png  used on input line 45.
 (pdftex.def)             Requested size: 512.14963pt x 239.62743pt.
-[49]) [50 <./Pictures/16_1.png>] (./TeX_files/17.tex
+[55]) [56 <./Pictures/16_1.png>] (./TeX_files/17.tex
 Overfull \hbox (30.66956pt too wide) in paragraph at lines 3--3
 \T2A/cmr/bx/n/17.28 Ос-нов-ные ин-тер-фе-рен-ци-он-ные схе-мы. Ин-тер-фе-рен-ци
 я плос-
@@ -1618,18 +1779,18 @@ Underfull \hbox (badness 10000) in paragraph at lines 19--22
 
  []
 
-<Pictures/17_1.png, id=966, 498.86375pt x 206.7725pt>
+<Pictures/17_1.png, id=1377, 498.86375pt x 206.7725pt>
 File: Pictures/17_1.png Graphic file (type png)
 <use Pictures/17_1.png>
 Package pdftex.def Info: Pictures/17_1.png  used on input line 25.
 (pdftex.def)             Requested size: 349.20224pt x 144.73975pt.
-[51 <./Pictures/17_1.png>]
-<Pictures/17_2.png, id=972, 243.91125pt x 275.0275pt>
+[57 <./Pictures/17_1.png>]
+<Pictures/17_2.png, id=1383, 243.91125pt x 275.0275pt>
 File: Pictures/17_2.png Graphic file (type png)
 <use Pictures/17_2.png>
 Package pdftex.def Info: Pictures/17_2.png  used on input line 31.
 (pdftex.def)             Requested size: 170.7367pt x 192.51793pt.
-<Pictures/17_3.png, id=973, 633.36626pt x 384.43625pt>
+<Pictures/17_3.png, id=1384, 633.36626pt x 384.43625pt>
 File: Pictures/17_3.png Graphic file (type png)
 <use Pictures/17_3.png>
 Package pdftex.def Info: Pictures/17_3.png  used on input line 35.
@@ -1639,7 +1800,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 33--36
 
  []
 
-) [52 <./Pictures/17_2.png> <./Pictures/17_3.png>] (./TeX_files/18.tex
+) [58 <./Pictures/17_2.png> <./Pictures/17_3.png>] (./TeX_files/18.tex
 Underfull \hbox (badness 10000) in paragraph at lines 20--22
 
  []
@@ -1684,8 +1845,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 27--32
 
  []
 
-[53]
-<Pictures/Yung.png, id=982, 360.59718pt x 166.37157pt>
+[59]
+<Pictures/Yung.png, id=1393, 360.59718pt x 166.37157pt>
 File: Pictures/Yung.png Graphic file (type png)
 <use Pictures/Yung.png>
 Package pdftex.def Info: Pictures/Yung.png  used on input line 36.
@@ -1695,52 +1856,52 @@ Underfull \hbox (badness 10000) in paragraph at lines 43--44
 
  []
 
-<Pictures/Pol.png, id=983, 459.96844pt x 289.08pt>
+<Pictures/Pol.png, id=1394, 459.96844pt x 289.08pt>
 File: Pictures/Pol.png Graphic file (type png)
 <use Pictures/Pol.png>
 Package pdftex.def Info: Pictures/Pol.png  used on input line 48.
 (pdftex.def)             Requested size: 229.98366pt x 144.53964pt.
-[54 <./Pictures/Yung.png> <./Pictures/Pol.png>]
-<Pictures/Biprizma.png, id=989, 336.50719pt x 154.32657pt>
+[60 <./Pictures/Yung.png> <./Pictures/Pol.png>]
+<Pictures/Biprizma.png, id=1400, 336.50719pt x 154.32657pt>
 File: Pictures/Biprizma.png Graphic file (type png)
 <use Pictures/Biprizma.png>
 Package pdftex.def Info: Pictures/Biprizma.png  used on input line 56.
 (pdftex.def)             Requested size: 168.25317pt x 77.16309pt.
-<Pictures/Zerkala.png, id=990, 390.70969pt x 272.51813pt>
+<Pictures/Zerkala.png, id=1401, 390.70969pt x 272.51813pt>
 File: Pictures/Zerkala.png Graphic file (type png)
 <use Pictures/Zerkala.png>
 Package pdftex.def Info: Pictures/Zerkala.png  used on input line 67.
 (pdftex.def)             Requested size: 195.35435pt x 136.25873pt.
-<Pictures/Bilinza1.png, id=991, 143.03438pt x 76.78688pt>
+<Pictures/Bilinza1.png, id=1402, 143.03438pt x 76.78688pt>
 File: Pictures/Bilinza1.png Graphic file (type png)
 <use Pictures/Bilinza1.png>
 Package pdftex.def Info: Pictures/Bilinza1.png  used on input line 77.
 (pdftex.def)             Requested size: 71.517pt x 38.39334pt.
- [55 <./Pictures/Biprizma.png> <./Pictures/Zerkala.png> <./Pictures/Bilinza1.pn
+ [61 <./Pictures/Biprizma.png> <./Pictures/Zerkala.png> <./Pictures/Bilinza1.pn
 g>]
-<Pictures/Bilinza2.png, id=997, 310.15875pt x 167.87718pt>
+<Pictures/Bilinza2.png, id=1407, 310.15875pt x 167.87718pt>
 File: Pictures/Bilinza2.png Graphic file (type png)
 <use Pictures/Bilinza2.png>
 Package pdftex.def Info: Pictures/Bilinza2.png  used on input line 83.
 (pdftex.def)             Requested size: 155.079pt x 83.93839pt.
-<Pictures/Loyd.png, id=998, 384.6872pt x 106.14656pt>
+<Pictures/Loyd.png, id=1408, 384.6872pt x 106.14656pt>
 File: Pictures/Loyd.png Graphic file (type png)
 <use Pictures/Loyd.png>
 Package pdftex.def Info: Pictures/Loyd.png  used on input line 92.
 (pdftex.def)             Requested size: 192.34312pt x 53.07315pt.
-) [56 <./Pictures/Bilinza2.png> <./Pictures/Loyd.png>] (./TeX_files/19.tex
+) [62 <./Pictures/Bilinza2.png> <./Pictures/Loyd.png>] (./TeX_files/19.tex
 Overfull \hbox (3.63377pt too wide) in paragraph at lines 3--3
 []\T2A/cmr/bx/n/17.28 Временная ко-ге-рент-ность. Ин-тер-фе-рен-ция немо-но-хро
 -ма-
  []
 
-[57] [58]) [59] (./TeX_files/20.tex
+[63] [64]) [65] (./TeX_files/20.tex
 Overfull \hbox (2.13751pt too wide) in paragraph at lines 1--1
 []\T2A/cmr/bx/n/17.28 Временная ко-ге-рент-ность. Вид-ность ин-тер-фе-рен-ци-он
 -ной
  []
 
-[60]
+[66]
 Overfull \hbox (15.78839pt too wide) in paragraph at lines 86--87
 \T2A/cmr/m/n/12 но-го и то-го же све-то-во-го по-ля в пространственно-
  []
@@ -1752,19 +1913,19 @@ m/m/it/12 Q[]; t[]\OT1/cmr/m/n/12 )$ \T2A/cmr/m/n/12 и $\OML/cmm/m/it/12 R[]\OT
 1/cmr/m/n/12 (\OML/cmm/m/it/12 Q[]; t[]\OT1/cmr/m/n/12 )$\T2A/cmr/m/n/12 .
  []
 
-[61]) [62] (./TeX_files/21.tex
+[67]) [68] (./TeX_files/21.tex
 Overfull \hbox (8.86304pt too wide) in paragraph at lines 1--1
 \T2A/cmr/bx/n/17.28 зи-мо-но-хро-ма-ти-че-ских волн про-тя-жен-ных ис-точ-ни-ко
 в све-
  []
 
-[63]) [64] (./TeX_files/22.tex
+[69]) [70] (./TeX_files/22.tex
 Overfull \hbox (3.01056pt too wide) in paragraph at lines 4--4
 []\T2A/cmr/bx/n/17.28 Пространственная ко-ге-рент-ность. Ра-ди-ус про-стран-ств
 ен-
  []
 
-<Pictures/22_1.png, id=1044, 512.91624pt x 229.85875pt>
+<Pictures/22_1.png, id=1455, 512.91624pt x 229.85875pt>
 File: Pictures/22_1.png Graphic file (type png)
 <use Pictures/22_1.png>
 Package pdftex.def Info: Pictures/22_1.png  used on input line 7.
@@ -1774,31 +1935,63 @@ Underfull \hbox (badness 10000) in paragraph at lines 5--8
 
  []
 
-) [65 <./Pictures/22_1.png>] (./TeX_files/23.tex
+) [71 <./Pictures/22_1.png>] (./TeX_files/23.tex
 Overfull \hbox (12.37502pt too wide) in paragraph at lines 1--1
 []\T2A/cmr/bx/n/17.28 Пространственная ко-ге-рент-ность. Сте-пень про-стран-ств
 ен-
  []
 
-<Pictures/8.png, id=1049, 752.8125pt x 752.8125pt>
+<Pictures/8.png, id=1460, 752.8125pt x 752.8125pt>
 File: Pictures/8.png Graphic file (type png)
 <use Pictures/8.png>
 Package pdftex.def Info: Pictures/8.png  used on input line 27.
 (pdftex.def)             Requested size: 225.84549pt x 225.84549pt.
-[66 <./Pictures/8.png>] [67]
-<Pictures/9.jpg, id=1065, 275.0275pt x 401.5pt>
+[72 <./Pictures/8.png>] [73]
+<Pictures/9.jpg, id=1476, 275.0275pt x 401.5pt>
 File: Pictures/9.jpg Graphic file (type jpg)
 <use Pictures/9.jpg>
 Package pdftex.def Info: Pictures/9.jpg  used on input line 73.
 (pdftex.def)             Requested size: 137.51341pt x 200.7495pt.
- [68 <./Pictures/9.jpg>]
-<Pictures/10.jpg, id=1070, 669.2503pt x 453.94594pt>
+ [74 <./Pictures/9.jpg>]
+<Pictures/10.jpg, id=1481, 669.2503pt x 453.94594pt>
 File: Pictures/10.jpg Graphic file (type jpg)
 <use Pictures/10.jpg>
 Package pdftex.def Info: Pictures/10.jpg  used on input line 85.
 (pdftex.def)             Requested size: 512.14963pt x 347.41296pt.
-) [69 <./Pictures/10.jpg>]
-(./TeX_files/24.tex) [70] (./TeX_files/25.tex
+) [75 <./Pictures/10.jpg>]
+(./TeX_files/24.tex
+<Pictures/plas.png, id=1487, 263.7855pt x 166.82326pt>
+File: Pictures/plas.png Graphic file (type png)
+<use Pictures/plas.png>
+Package pdftex.def Info: Pictures/plas.png  used on input line 9.
+(pdftex.def)             Requested size: 263.78485pt x 166.82285pt.
+ [76 <./Pictures/plas.png>]
+<Pictures/plas2.png, id=1494, 271.61475pt x 161.403pt>
+File: Pictures/plas2.png Graphic file (type png)
+<use Pictures/plas2.png>
+Package pdftex.def Info: Pictures/plas2.png  used on input line 94.
+(pdftex.def)             Requested size: 271.61407pt x 161.4026pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[77]
+<Pictures/anal_rings2.png, id=1499, 193.32225pt x 196.93575pt>
+File: Pictures/anal_rings2.png Graphic file (type png)
+<use Pictures/anal_rings2.png>
+Package pdftex.def Info: Pictures/anal_rings2.png  used on input line 107.
+(pdftex.def)             Requested size: 193.32178pt x 196.93524pt.
+<Pictures/anal_rings1.png, id=1500, 257.16075pt x 187.902pt>
+File: Pictures/anal_rings1.png Graphic file (type png)
+<use Pictures/anal_rings1.png>
+Package pdftex.def Info: Pictures/anal_rings1.png  used on input line 120.
+(pdftex.def)             Requested size: 257.16011pt x 187.90154pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[78 <./Pictures/plas2.png> <./Pictures/anal_rings2.png>]) [79 <./Pictures/anal_
+rings1.png>] [80] (./TeX_files/25.tex
 Overfull \hbox (0.52069pt too wide) in paragraph at lines 1--1
 []\T2A/cmr/bx/n/17.28 Двухлучевые ин-тер-фе-ро-мет-ры. Ин-тер-фе-ро-мет-ры Рэ-л
 ея,
@@ -1822,20 +2015,20 @@ Overfull \hbox (0.12463pt too wide) in paragraph at lines 4--5
 -ли-че-ство ко-ге-рент-ных пуч-ков. Каж-
  []
 
-[71]) [72] [73] (./TeX_files/26.tex
-<Pictures/26_1.png, id=1102, 393.47pt x 210.7875pt>
+[81]) [82] [83] (./TeX_files/26.tex
+<Pictures/26_1.png, id=1546, 393.47pt x 210.7875pt>
 File: Pictures/26_1.png Graphic file (type png)
 <use Pictures/26_1.png>
 Package pdftex.def Info: Pictures/26_1.png  used on input line 9.
 (pdftex.def)             Requested size: 512.14963pt x 274.38716pt.
- [74 <./Pictures/26_1.png>]
-<Pictures/26_2.png, id=1112, 501.875pt x 450.68375pt>
+ [84 <./Pictures/26_1.png>]
+<Pictures/26_2.png, id=1557, 501.875pt x 450.68375pt>
 File: Pictures/26_2.png Graphic file (type png)
 <use Pictures/26_2.png>
 Package pdftex.def Info: Pictures/26_2.png  used on input line 27.
 (pdftex.def)             Requested size: 512.14963pt x 459.9664pt.
- [75 <./Pictures/26_2.png>]) [76] (./TeX_files/27.tex
-<Pictures/27_1.png, id=1125, 811.03pt x 367.3725pt>
+ [85 <./Pictures/26_2.png>]) [86] (./TeX_files/27.tex
+<Pictures/27_1.png, id=1570, 811.03pt x 367.3725pt>
 File: Pictures/27_1.png Graphic file (type png)
 <use Pictures/27_1.png>
 Package pdftex.def Info: Pictures/27_1.png  used on input line 7.
@@ -1909,12 +2102,12 @@ Missing character: There is no ч in font cmr8!
 Missing character: There is no н in font cmr8!
 Missing character: There is no а in font cmr8!
 Missing character: There is no я in font cmr8!
-<Pictures/27_2.png, id=1126, 786.94pt x 313.17pt>
+<Pictures/27_2.png, id=1571, 786.94pt x 313.17pt>
 File: Pictures/27_2.png Graphic file (type png)
 <use Pictures/27_2.png>
 Package pdftex.def Info: Pictures/27_2.png  used on input line 19.
 (pdftex.def)             Requested size: 393.46904pt x 156.58461pt.
-<Pictures/27_3.png, id=1127, 1571.8725pt x 656.4525pt>
+<Pictures/27_3.png, id=1572, 1571.8725pt x 656.4525pt>
 File: Pictures/27_3.png Graphic file (type png)
 <use Pictures/27_3.png>
 Package pdftex.def Info: Pictures/27_3.png  used on input line 23.
@@ -1922,105 +2115,105 @@ Package pdftex.def Info: Pictures/27_3.png  used on input line 23.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[77 <./Pictures/27_1.png>]
-<Pictures/27_4.png, id=1133, 680.5425pt x 603.25375pt>
+[87 <./Pictures/27_1.png>]
+<Pictures/27_4.png, id=1577, 680.5425pt x 603.25375pt>
 File: Pictures/27_4.png Graphic file (type png)
 <use Pictures/27_4.png>
 Package pdftex.def Info: Pictures/27_4.png  used on input line 29.
 (pdftex.def)             Requested size: 204.16432pt x 180.97751pt.
-) [78 <./Pictures/27_2.png> <./Pictures/27_3.png> <./Pictures/27_4.png>] (./TeX
-_files/28.tex [79] [80]) [81] (./TeX_files/29.tex
+) [88 <./Pictures/27_2.png> <./Pictures/27_3.png> <./Pictures/27_4.png>] (./TeX
+_files/28.tex [89] [90]) [91] (./TeX_files/29.tex
 Overfull \hbox (11.90532pt too wide) in paragraph at lines 1--1
 \T2A/cmr/bx/n/17.28 да-чи. Ди-фрак-ция на круг-лом от-вер-стии и круг-лом экран
 е,
  []
 
-<Pictures/Frenel.png, id=1166, 309.5565pt x 352.9185pt>
+<Pictures/Frenel.png, id=1609, 309.5565pt x 352.9185pt>
 File: Pictures/Frenel.png Graphic file (type png)
 <use Pictures/Frenel.png>
 Package pdftex.def Info: Pictures/Frenel.png  used on input line 21.
 (pdftex.def)             Requested size: 153.64644pt x 175.17177pt.
-<Pictures/Ka.png, id=1168, 248.72925pt x 290.88675pt>
+<Pictures/Ka.png, id=1611, 248.72925pt x 290.88675pt>
 File: Pictures/Ka.png Graphic file (type png)
 <use Pictures/Ka.png>
 Package pdftex.def Info: Pictures/Ka.png  used on input line 31.
 (pdftex.def)             Requested size: 153.64644pt x 179.69101pt.
-[82 <./Pictures/Frenel.png>]
-<Pictures/Dot.png, id=1178, 180.675pt x 137.313pt>
+[92 <./Pictures/Frenel.png>]
+<Pictures/Dot.png, id=1620, 180.675pt x 137.313pt>
 File: Pictures/Dot.png Graphic file (type png)
 <use Pictures/Dot.png>
 Package pdftex.def Info: Pictures/Dot.png  used on input line 47.
 (pdftex.def)             Requested size: 204.85672pt x 155.69196pt.
-<Pictures/Ekran.png, id=1180, 259.56975pt x 290.88675pt>
+<Pictures/Ekran.png, id=1622, 259.56975pt x 290.88675pt>
 File: Pictures/Ekran.png Graphic file (type png)
 <use Pictures/Ekran.png>
 Package pdftex.def Info: Pictures/Ekran.png  used on input line 57.
 (pdftex.def)             Requested size: 153.64644pt x 172.18538pt.
- [83 <./Pictures/Ka.png> <./Pictures/Dot.png>]
-<Pictures/I(z).png, id=1189, 410.7345pt x 163.20975pt>
+ [93 <./Pictures/Ka.png> <./Pictures/Dot.png>]
+<Pictures/I(z).png, id=1631, 410.7345pt x 163.20975pt>
 File: Pictures/I(z).png Graphic file (type png)
 <use Pictures/I(z).png>
 Package pdftex.def Info: Pictures/I(z).png  used on input line 64.
 (pdftex.def)             Requested size: 256.07481pt x 101.75679pt.
-<Pictures/Puasson.png, id=1191, 174.05025pt x 143.93774pt>
+<Pictures/Puasson.png, id=1633, 174.05025pt x 143.93774pt>
 File: Pictures/Puasson.png Graphic file (type png)
 <use Pictures/Puasson.png>
 Package pdftex.def Info: Pictures/Puasson.png  used on input line 65.
 (pdftex.def)             Requested size: 102.42836pt x 84.70728pt.
-<Pictures/Zones3.png, id=1193, 261.97874pt x 271.0125pt>
+<Pictures/Zones3.png, id=1635, 261.97874pt x 271.0125pt>
 File: Pictures/Zones3.png Graphic file (type png)
 <use Pictures/Zones3.png>
 Package pdftex.def Info: Pictures/Zones3.png  used on input line 75.
 (pdftex.def)             Requested size: 204.85672pt x 211.92648pt.
 
-[84 <./Pictures/Ekran.png> <./Pictures/I(z).png> <./Pictures/Puasson.png>]
-<Pictures/Zones2.png, id=1205, 385.44pt x 149.96025pt>
+[94 <./Pictures/Ekran.png> <./Pictures/I(z).png> <./Pictures/Puasson.png>]
+<Pictures/Zones2.png, id=1646, 385.44pt x 149.96025pt>
 File: Pictures/Zones2.png Graphic file (type png)
 <use Pictures/Zones2.png>
 Package pdftex.def Info: Pictures/Zones2.png  used on input line 87.
 (pdftex.def)             Requested size: 256.07481pt x 99.62848pt.
 
-[85 <./Pictures/Zones3.png> <./Pictures/Zones2.png>]
-<Pictures/Zones.png, id=1214, 193.32225pt x 237.2865pt>
+[95 <./Pictures/Zones3.png> <./Pictures/Zones2.png>]
+<Pictures/Zones.png, id=1655, 193.32225pt x 237.2865pt>
 File: Pictures/Zones.png Graphic file (type png)
 <use Pictures/Zones.png>
 Package pdftex.def Info: Pictures/Zones.png  used on input line 99.
 (pdftex.def)             Requested size: 153.64644pt x 188.59479pt.
-<Pictures/44.png, id=1216, 220.825pt x 226.8475pt>
+<Pictures/44.png, id=1657, 220.825pt x 226.8475pt>
 File: Pictures/44.png Graphic file (type png)
 <use Pictures/44.png>
 Package pdftex.def Info: Pictures/44.png  used on input line 100.
 (pdftex.def)             Requested size: 153.64644pt x 157.84373pt.
-<Pictures/HowToUse.png, id=1218, 803.4015pt x 230.0595pt>
+<Pictures/HowToUse.png, id=1659, 803.4015pt x 230.0595pt>
 File: Pictures/HowToUse.png Graphic file (type png)
 <use Pictures/HowToUse.png>
 Package pdftex.def Info: Pictures/HowToUse.png  used on input line 110.
 (pdftex.def)             Requested size: 512.14963pt x 146.66187pt.
-) [86 <./Pictures/Zones.png> <./Pictures/44.png (PNG copy)> <./Pictures/HowToUs
-e.png>] (./TeX_files/30.tex) [87] (./TeX_files/31.tex
+) [96 <./Pictures/Zones.png> <./Pictures/44.png (PNG copy)> <./Pictures/HowToUs
+e.png>] (./TeX_files/30.tex) [97] (./TeX_files/31.tex
 Overfull \hbox (2.28252pt too wide) in paragraph at lines 3--4
 []\T2A/cmr/m/n/12 Рассмотрим ди-фрак-цию на пря-мо-уголь-ной ще-ли. Огра-ни-чим
 -ся рас-смот-ре-ни-ем плос-ких волн.
  []
 
-<Pictures/31_1.png, id=1233, 300.12125pt x 185.69376pt>
+<Pictures/31_1.png, id=1675, 300.12125pt x 185.69376pt>
 File: Pictures/31_1.png Graphic file (type png)
 <use Pictures/31_1.png>
 Package pdftex.def Info: Pictures/31_1.png  used on input line 7.
 (pdftex.def)             Requested size: 300.12051pt x 185.6933pt.
-[88 <./Pictures/31_1.png>] [89]
-<Pictures/31_2.png, id=1245, 427.5975pt x 288.07625pt>
+[98 <./Pictures/31_1.png>] [99]
+<Pictures/31_2.png, id=1686, 427.5975pt x 288.07625pt>
 File: Pictures/31_2.png Graphic file (type png)
 <use Pictures/31_2.png>
 Package pdftex.def Info: Pictures/31_2.png  used on input line 103.
 (pdftex.def)             Requested size: 427.59645pt x 288.07553pt.
-<Pictures/31_3.png, id=1246, 264.99pt x 167.62625pt>
+<Pictures/31_3.png, id=1687, 264.99pt x 167.62625pt>
 File: Pictures/31_3.png Graphic file (type png)
 <use Pictures/31_3.png>
 Package pdftex.def Info: Pictures/31_3.png  used on input line 111.
 (pdftex.def)             Requested size: 264.98935pt x 167.62582pt.
- [90 <./Pictures/31_2.png>]) [91 <./Pictures/31_3.png>] (./TeX_files/32.tex) [9
-2] (./TeX_files/33.tex
+ [100 <./Pictures/31_2.png>]) [101 <./Pictures/31_3.png>] (./TeX_files/32.tex) 
+[102] (./TeX_files/33.tex
 Overfull \hbox (19.26845pt too wide) in paragraph at lines 1--1
 \T2A/cmr/bx/n/17.28 фрак-ци-он-ные ре-шет-ки. Ди-фрак-ци-он-ная ре-шет-ка как с
 пек-
@@ -2032,75 +2225,74 @@ Overfull \hbox (1.14868pt too wide) in paragraph at lines 5--6
 -ния све-
  []
 
-<Pictures/33_1.png, id=1266, 347.04657pt x 219.82124pt>
+<Pictures/33_1.png, id=1705, 347.04657pt x 219.82124pt>
 File: Pictures/33_1.png Graphic file (type png)
 <use Pictures/33_1.png>
 Package pdftex.def Info: Pictures/33_1.png  used on input line 9.
 (pdftex.def)             Requested size: 347.04572pt x 219.8207pt.
-[93 <./Pictures/33_1.png>]
-<Pictures/33_2.jpg, id=1274, 694.09312pt x 335.75438pt>
+[103 <./Pictures/33_1.png>]
+<Pictures/33_2.jpg, id=1711, 694.09312pt x 335.75438pt>
 File: Pictures/33_2.jpg Graphic file (type jpg)
 <use Pictures/33_2.jpg>
 Package pdftex.def Info: Pictures/33_2.jpg  used on input line 77.
 (pdftex.def)             Requested size: 512.14963pt x 247.75247pt.
- [94 <./Pictures/33_2.jpg>]
-<Pictures/33_3.jpg, id=1279, 373.395pt x 437.635pt>
+ [104 <./Pictures/33_2.jpg>]
+<Pictures/33_3.jpg, id=1717, 373.395pt x 437.635pt>
 File: Pictures/33_3.jpg Graphic file (type jpg)
 <use Pictures/33_3.jpg>
 Package pdftex.def Info: Pictures/33_3.jpg  used on input line 107.
 (pdftex.def)             Requested size: 186.69704pt x 218.81696pt.
-<Pictures/33_4.jpg, id=1280, 476.78125pt x 317.185pt>
+<Pictures/33_4.jpg, id=1718, 476.78125pt x 317.185pt>
 File: Pictures/33_4.jpg Graphic file (type jpg)
 <use Pictures/33_4.jpg>
 Package pdftex.def Info: Pictures/33_4.jpg  used on input line 118.
 (pdftex.def)             Requested size: 238.39003pt x 158.5921pt.
- [95 <./Pictures/33_3.jpg>]
-<Pictures/33_5.jpg, id=1288, 548.80031pt x 258.21469pt>
+ [105 <./Pictures/33_3.jpg>]
+<Pictures/33_5.jpg, id=1724, 548.80031pt x 258.21469pt>
 File: Pictures/33_5.jpg Graphic file (type jpg)
 <use Pictures/33_5.jpg>
 Package pdftex.def Info: Pictures/33_5.jpg  used on input line 147.
 (pdftex.def)             Requested size: 512.14963pt x 240.98822pt.
- [96 <./Pictures/33_4.jpg>]) [97 <./Pictures/33_5.jpg>] (./TeX_files/34.tex
-<Pictures/34_1.png, id=1300, 1611.01875pt x 360.34625pt>
+ [106 <./Pictures/33_4.jpg>]) [107 <./Pictures/33_5.jpg>]
+(./TeX_files/34.tex
+<Pictures/34_1.png, id=1734, 1611.01875pt x 360.34625pt>
 File: Pictures/34_1.png Graphic file (type png)
 <use Pictures/34_1.png>
 Package pdftex.def Info: Pictures/34_1.png  used on input line 16.
 (pdftex.def)             Requested size: 402.75371pt x 90.08633pt.
-
-[98 <./Pictures/34_1.png>]
-<Pictures/34_2.png, id=1309, 1529.715pt x 994.71625pt>
+ [108 <./Pictures/34_1.png>]
+<Pictures/34_2.png, id=1743, 1529.715pt x 994.71625pt>
 File: Pictures/34_2.png Graphic file (type png)
 <use Pictures/34_2.png>
 Package pdftex.def Info: Pictures/34_2.png  used on input line 72.
 (pdftex.def)             Requested size: 382.42781pt x 248.67845pt.
- [99 <./Pictures/34_2.png>]
-<Pictures/34_3.png, id=1316, 1339.0025pt x 1008.76875pt>
+ [109 <./Pictures/34_2.png>]
+<Pictures/34_3.png, id=1750, 1339.0025pt x 1008.76875pt>
 File: Pictures/34_3.png Graphic file (type png)
 <use Pictures/34_3.png>
 Package pdftex.def Info: Pictures/34_3.png  used on input line 103.
 (pdftex.def)             Requested size: 334.7498pt x 252.19157pt.
-) [100 <./Pictures/34_3.png>] (./TeX_files/35.tex) [101] (./TeX_files/36.tex
-<Pictures/36_1.png, id=1327, 912.40875pt x 298.11375pt>
+)
+[110 <./Pictures/34_3.png>] (./TeX_files/35.tex) [111] (./TeX_files/36.tex
+<Pictures/36_1.png, id=1761, 912.40875pt x 298.11375pt>
 File: Pictures/36_1.png Graphic file (type png)
 <use Pictures/36_1.png>
 Package pdftex.def Info: Pictures/36_1.png  used on input line 25.
 (pdftex.def)             Requested size: 512.14963pt x 167.3383pt.
- [102 <./Pictures/36_1.png>]) [103] (./TeX_files/37.tex) [104] (./TeX_files/38.
-tex
+
+[112 <./Pictures/36_1.png>]) [113] (./TeX_files/37.tex) [114]
+(./TeX_files/38.tex
 Overfull \hbox (6.57933pt too wide) in paragraph at lines 1--1
 []\T2A/cmr/bx/n/17.28 Элементы Фурье-оптики. Яв-ле-ние са-мо-ре-про-дук-ции. Ме
 -
  []
 
-<Pictures/Rayleigh.png, id=1344, 627.84563pt x 464.23438pt>
+<Pictures/Rayleigh.png, id=1777, 627.84563pt x 464.23438pt>
 File: Pictures/Rayleigh.png Graphic file (type png)
 <use Pictures/Rayleigh.png>
 Package pdftex.def Info: Pictures/Rayleigh.png  used on input line 11.
 (pdftex.def)             Requested size: 439.48894pt x 324.96184pt.
-
-LaTeX Warning: Reference `screen' on page 105 undefined on input line 16.
-
-<Pictures/screen.jpg, id=1345, 3439.85126pt x 2611.7575pt>
+<Pictures/screen.jpg, id=1779, 3439.85126pt x 2611.7575pt>
 File: Pictures/screen.jpg Graphic file (type jpg)
 <use Pictures/screen.jpg>
 Package pdftex.def Info: Pictures/screen.jpg  used on input line 19.
@@ -2108,68 +2300,71 @@ Package pdftex.def Info: Pictures/screen.jpg  used on input line 19.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[105 <./Pictures/Rayleigh.png>]
-
-LaTeX Warning: Reference `period' on page 106 undefined on input line 34.
-
-<Pictures/period.jpg, id=1355, 4015.0pt x 3011.25pt>
+[115 <./Pictures/Rayleigh.png>]
+<Pictures/period.jpg, id=1786, 4015.0pt x 3011.25pt>
 File: Pictures/period.jpg Graphic file (type jpg)
 <use Pictures/period.jpg>
 Package pdftex.def Info: Pictures/period.jpg  used on input line 39.
 (pdftex.def)             Requested size: 200.76176pt x 150.57132pt.
-
-LaTeX Warning: Reference `repro' on page 106 undefined on input line 45.
-
-<Pictures/repro.jpg, id=1356, 2703.09875pt x 2821.54124pt>
+<Pictures/repro.jpg, id=1788, 2703.09875pt x 2821.54124pt>
 File: Pictures/repro.jpg Graphic file (type jpg)
 <use Pictures/repro.jpg>
 Package pdftex.def Info: Pictures/repro.jpg  used on input line 50.
 (pdftex.def)             Requested size: 135.16286pt x 141.08533pt.
 
+
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[106 <./Pictures/screen.jpg> <./Pictures/period.jpg>]
-
-LaTeX Warning: Reference `talbot' on page 107 undefined on input line 83.
-
-<Pictures/Optical_Talbot_Carpet.png, id=1366, 1209.51875pt x 927.465pt>
+[116 <./Pictures/screen.jpg> <./Pictures/period.jpg>]
+<Pictures/Optical_Talbot_Carpet.png, id=1799, 1209.51875pt x 927.465pt>
 File: Pictures/Optical_Talbot_Carpet.png Graphic file (type png)
 <use Pictures/Optical_Talbot_Carpet.png>
 Package pdftex.def Info: Pictures/Optical_Talbot_Carpet.png  used on input line
  86.
 (pdftex.def)             Requested size: 241.89946pt x 185.48972pt.
-[107 <./Pictures/repro.jpg> <./Pictures/Optical_Talbot_Carpet.png>]
-
-LaTeX Warning: Reference `catron' on page 108 undefined on input line 102.
-
-<Pictures/catron.jpg, id=1380, 236.68425pt x 144.54pt>
+ [117 <./Pictures/repro.jpg> <./Pictures/Optical_Talbot_Carpet.png>]
+<Pictures/catron.jpg, id=1814, 236.68425pt x 144.54pt>
 File: Pictures/catron.jpg Graphic file (type jpg)
 <use Pictures/catron.jpg>
 Package pdftex.def Info: Pictures/catron.jpg  used on input line 105.
 (pdftex.def)             Requested size: 236.68367pt x 144.53963pt.
-) [108 <./Pictures/catron.jpg>] (./TeX_files/39.tex) [109] (./TeX_files/40.tex)
-[110] (./TeX_files/41.tex
-<Pictures/41_1.jpg, id=1400, 1190.4475pt x 574.145pt>
+) [118 <./Pictures/catron.jpg>]
+(./TeX_files/39.tex
+<Pictures/holo1.PNG, id=1824, 1497.595pt x 985.6825pt>
+File: Pictures/holo1.PNG Graphic file (type png)
+<use Pictures/holo1.PNG>
+Package pdftex.def Info: Pictures/holo1.PNG  used on input line 15.
+(pdftex.def)             Requested size: 374.39784pt x 246.42001pt.
+<Pictures/holo2.PNG, id=1825, 1833.85126pt x 1215.54124pt>
+File: Pictures/holo2.PNG Graphic file (type png)
+<use Pictures/holo2.PNG>
+Package pdftex.def Info: Pictures/holo2.PNG  used on input line 24.
+(pdftex.def)             Requested size: 458.4617pt x 303.88457pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[119 <./Pictures/holo1.PNG>] [120 <./Pictures/holo2.PNG>]) [121]
+(./TeX_files/40.tex) [122] (./TeX_files/41.tex
+<Pictures/41_1.jpg, id=1848, 1190.4475pt x 574.145pt>
 File: Pictures/41_1.jpg Graphic file (type jpg)
 <use Pictures/41_1.jpg>
 Package pdftex.def Info: Pictures/41_1.jpg  used on input line 5.
 (pdftex.def)             Requested size: 297.61115pt x 143.53589pt.
- [111 <./Pictures/41_1.jpg>]
-
-LaTeX Warning: Reference `eps' on page 112 undefined on input line 42.
-
-<Pictures/41_2.jpg, id=1412, 1284.8pt x 738.76pt>
+ [123 <./Pictures/41_1.jpg>]
+<Pictures/41_2.jpg, id=1859, 1284.8pt x 738.76pt>
 File: Pictures/41_2.jpg Graphic file (type jpg)
 <use Pictures/41_2.jpg>
 Package pdftex.def Info: Pictures/41_2.jpg  used on input line 51.
 (pdftex.def)             Requested size: 321.19922pt x 184.68954pt.
-<Pictures/41_3.jpg, id=1413, 1284.8pt x 542.025pt>
+<Pictures/41_3.jpg, id=1860, 1284.8pt x 542.025pt>
 File: Pictures/41_3.jpg Graphic file (type jpg)
 <use Pictures/41_3.jpg>
 Package pdftex.def Info: Pictures/41_3.jpg  used on input line 70.
 (pdftex.def)             Requested size: 321.19922pt x 135.5059pt.
-[112 <./Pictures/41_2.jpg>]
-<Pictures/41_4.jpg, id=1427, 1284.8pt x 879.285pt>
+
+[124 <./Pictures/41_2.jpg>]
+<Pictures/41_4.jpg, id=1874, 1284.8pt x 879.285pt>
 File: Pictures/41_4.jpg Graphic file (type jpg)
 <use Pictures/41_4.jpg>
 Package pdftex.def Info: Pictures/41_4.jpg  used on input line 114.
@@ -2178,15 +2373,15 @@ Package pdftex.def Info: Pictures/41_4.jpg  used on input line 114.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[113 <./Pictures/41_3.jpg>] (./TeX_files/42.tex
-<Pictures/Na.png, id=1441, 487.22025pt x 193.9245pt>
+[125 <./Pictures/41_3.jpg>] (./TeX_files/42.tex
+<Pictures/Na.png, id=1887, 487.22025pt x 193.9245pt>
 File: Pictures/Na.png Graphic file (type png)
 <use Pictures/Na.png>
 Package pdftex.def Info: Pictures/Na.png  used on input line 15.
 (pdftex.def)             Requested size: 512.14963pt x 203.85751pt.
- [114 <./Pictures/41_4.jpg>]
-[115 <./Pictures/Na.png>]
-<Pictures/T2.png, id=1455, 258.9675pt x 140.9265pt>
+ [126 <./Pictures/41_4.jpg>]
+[127 <./Pictures/Na.png>]
+<Pictures/T2.png, id=1900, 258.9675pt x 140.9265pt>
 File: Pictures/T2.png Graphic file (type png)
 <use Pictures/T2.png>
 Package pdftex.def Info: Pictures/T2.png  used on input line 24.
@@ -2196,109 +2391,115 @@ Package pdftex.def Info: Pictures/T2.png  used on input line 24.
 LaTeX Warning: Command \CYRT invalid in math mode on input line 46.
 
 Missing character: There is no Т in font cmr12!
-<Pictures/Rad.png, id=1457, 195.73125pt x 112.0185pt>
+<Pictures/Rad.png, id=1902, 195.73125pt x 112.0185pt>
 File: Pictures/Rad.png Graphic file (type png)
 <use Pictures/Rad.png>
 Package pdftex.def Info: Pictures/Rad.png  used on input line 50.
 (pdftex.def)             Requested size: 153.64644pt x 87.93811pt.
-[116 <./Pictures/T2.png> <./Pictures/Rad.png>]
-<Pictures/T1.png, id=1466, 231.264pt x 174.6525pt>
+[128 <./Pictures/T2.png> <./Pictures/Rad.png>]
+<Pictures/T1.png, id=1911, 231.264pt x 174.6525pt>
 File: Pictures/T1.png Graphic file (type png)
 <use Pictures/T1.png>
 Package pdftex.def Info: Pictures/T1.png  used on input line 63.
 (pdftex.def)             Requested size: 153.64644pt x 116.04118pt.
-<Pictures/T3.png, id=1468, 216.20775pt x 93.34875pt>
+<Pictures/T3.png, id=1913, 216.20775pt x 93.34875pt>
 File: Pictures/T3.png Graphic file (type png)
 <use Pictures/T3.png>
 Package pdftex.def Info: Pictures/T3.png  used on input line 73.
 (pdftex.def)             Requested size: 153.64644pt x 66.33789pt.
-) [117 <./Pictures/T1.png> <./Pictures/T3.png>] (./TeX_files/43.tex
+) [129 <./Pictures/T1.png> <./Pictures/T3.png>] (./TeX_files/43.tex
 Overfull \hbox (20.06207pt too wide) in paragraph at lines 1--1
 []\T2A/cmr/bx/n/17.28 Закон Стефана-Больцмана, фор-му-ла сме-ще-ния Ви-на. Фор-
 
  []
 
-
-LaTeX Warning: Reference `rj' on page 118 undefined on input line 24.
-
-
-LaTeX Warning: Reference `comparison' on page 118 undefined on input line 28.
-
-<Pictures/omparison.jpg, id=1477, 276.28218pt x 167.87718pt>
+<Pictures/omparison.jpg, id=1924, 276.28218pt x 167.87718pt>
 File: Pictures/omparison.jpg Graphic file (type jpg)
 <use Pictures/omparison.jpg>
 Package pdftex.def Info: Pictures/omparison.jpg  used on input line 31.
 (pdftex.def)             Requested size: 276.2815pt x 167.87677pt.
-[118]
-
-LaTeX Warning: Reference `comparison' on page 119 undefined on input line 46.
-
-
-LaTeX Warning: Reference `win' on page 119 undefined on input line 57.
-
-<Pictures/win.png, id=1490, 622.82687pt x 464.23438pt>
+[130]
+<Pictures/win.png, id=1937, 622.82687pt x 464.23438pt>
 File: Pictures/win.png Graphic file (type png)
 <use Pictures/win.png>
 Package pdftex.def Info: Pictures/win.png  used on input line 60.
 (pdftex.def)             Requested size: 373.699pt x 278.54277pt.
-) [119 <./Pictures/omparison.jpg>] (./TeX_files/44.tex) [120 <./Pictures/win.pn
-g>] (./TeX_files/45.tex
-<Pictures/Lebedev1.png, id=1505, 394.47375pt x 289.68225pt>
+) [131 <./Pictures/omparison.jpg>] (./TeX_files/44.tex
+Overfull \hbox (20.01286pt too wide) in paragraph at lines 3--3
+\T2A/cmr/bx/n/17.28 ты и их при-ме-не-ния: фо-то-элек-трон-ный умно-жи-тель(ФЭУ
+). 
+ []
+
+[132 <./Pictures/win.png>]
+<Pictures/phef.png, id=1952, 151.767pt x 105.996pt>
+File: Pictures/phef.png Graphic file (type png)
+<use Pictures/phef.png>
+Package pdftex.def Info: Pictures/phef.png  used on input line 27.
+(pdftex.def)             Requested size: 227.64992pt x 158.99359pt.
+ [133 <./Pictures/phef.png>]
+<Pictures/feu.png, id=1958, 396.2805pt x 218.61674pt>
+File: Pictures/feu.png Graphic file (type png)
+<use Pictures/feu.png>
+Package pdftex.def Info: Pictures/feu.png  used on input line 55.
+(pdftex.def)             Requested size: 396.27953pt x 218.6162pt.
+
+Overfull \hbox (1.01886pt too wide) in paragraph at lines 61--62
+[]\T2A/cmr/m/it/12 Фотоэлектронный умно-жи-тель \T2A/cmr/m/n/12 - при-бор, ос-н
+о-ван-ный на вто-рич-ной фо-то-элек-трон-ной эмис-
+ []
+
+[134 <./Pictures/feu.png>]) [135] (./TeX_files/45.tex
+<Pictures/Lebedev1.png, id=1970, 394.47375pt x 289.68225pt>
 File: Pictures/Lebedev1.png Graphic file (type png)
 <use Pictures/Lebedev1.png>
 Package pdftex.def Info: Pictures/Lebedev1.png  used on input line 6.
 (pdftex.def)             Requested size: 256.07481pt x 188.04811pt.
-<Pictures/Lebedev2.png, id=1507, 278.84175pt x 413.1435pt>
+<Pictures/Lebedev2.png, id=1972, 278.84175pt x 413.1435pt>
 File: Pictures/Lebedev2.png Graphic file (type png)
 <use Pictures/Lebedev2.png>
 Package pdftex.def Info: Pictures/Lebedev2.png  used on input line 7.
 (pdftex.def)             Requested size: 153.64644pt x 227.6583pt.
-<Pictures/Kompton.png, id=1509, 325.215pt x 194.52675pt>
+<Pictures/Kompton.png, id=1974, 325.215pt x 194.52675pt>
 File: Pictures/Kompton.png Graphic file (type png)
 <use Pictures/Kompton.png>
 Package pdftex.def Info: Pictures/Kompton.png  used on input line 27.
 (pdftex.def)             Requested size: 204.85672pt x 122.53764pt.
-<Pictures/Kompton2.png, id=1511, 251.7405pt x 204.16275pt>
+<Pictures/Kompton2.png, id=1976, 251.7405pt x 204.16275pt>
 File: Pictures/Kompton2.png Graphic file (type png)
 <use Pictures/Kompton2.png>
 Package pdftex.def Info: Pictures/Kompton2.png  used on input line 28.
 (pdftex.def)             Requested size: 153.64644pt x 124.60762pt.
- [121 <./Pictures/Lebedev1.png> <./Pictures/Lebedev2.png>]
-<Pictures/Kompton3.png, id=1522, 268.6035pt x 196.3335pt>
+ [136 <./Pictures/Lebedev1.png> <./Pictures/Lebedev2.png>]
+<Pictures/Kompton3.png, id=1986, 268.6035pt x 196.3335pt>
 File: Pictures/Kompton3.png Graphic file (type png)
 <use Pictures/Kompton3.png>
 Package pdftex.def Info: Pictures/Kompton3.png  used on input line 35.
 (pdftex.def)             Requested size: 153.64644pt x 112.3097pt.
-) [122 <./Pictures/Kompton.png> <./Pictures/Kompton2.png> <./Pictures/Kompton3.
+) [137 <./Pictures/Kompton.png> <./Pictures/Kompton2.png> <./Pictures/Kompton3.
 png>] (./TeX_files/46.tex
-<Pictures/46_1.pdf, id=1534, 1049.9225pt x 1025.8325pt>
+<Pictures/46_1.pdf, id=1998, 1049.9225pt x 1025.8325pt>
 File: Pictures/46_1.pdf Graphic file (type pdf)
 <use Pictures/46_1.pdf>
 Package pdftex.def Info: Pictures/46_1.pdf  used on input line 8.
 (pdftex.def)             Requested size: 262.47998pt x 256.4575pt.
- [123 <./Pictures/46_1.pdf>] [124]) [125]
-(./TeX_files/47.tex) [126] (./TeX_files/48.tex
-
-LaTeX Warning: Reference `landhui' on page 127 undefined on input line 42.
-
-<Pictures/landhui.png, id=1559, 343.78438pt x 254.9525pt>
+ [138 <./Pictures/46_1.pdf>] [139]) [140] (./TeX_files/47.tex) [141] (./TeX_fil
+es/48.tex
+<Pictures/landhui.png, id=2023, 343.78438pt x 254.9525pt>
 File: Pictures/landhui.png Graphic file (type png)
 <use Pictures/landhui.png>
 Package pdftex.def Info: Pictures/landhui.png  used on input line 45.
 (pdftex.def)             Requested size: 171.89175pt x 127.47592pt.
-[127]
-
-LaTeX Warning: Reference `lupaipupa' on page 128 undefined on input line 54.
-
-<Pictures/pupalupa.png, id=1568, 445.16313pt x 153.57375pt>
+ [142]
+<Pictures/pupalupa.png, id=2033, 445.16313pt x 153.57375pt>
 File: Pictures/pupalupa.png Graphic file (type png)
 <use Pictures/pupalupa.png>
 Package pdftex.def Info: Pictures/pupalupa.png  used on input line 57.
 (pdftex.def)             Requested size: 222.58102pt x 76.78668pt.
-) [128 <./Pictures/landhui.png> <./Pictures/pupalupa.png>] (./TeX_files/49.tex
-[129]) [130] (./TeX_files/50.tex) 
+)
+[143 <./Pictures/landhui.png> <./Pictures/pupalupa.png>] (./TeX_files/49.tex
+[144]) [145] (./TeX_files/50.tex) 
 AED: lastpage setting LastPage
-[131]
+[146]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 404.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 404.
  (./main.aux)
@@ -2311,58 +2512,135 @@ Package rerunfilecheck Warning: File `main.out' has changed.
 (rerunfilecheck)                or use package `bookmark'.
 
 Package rerunfilecheck Info: Checksums for `main.out':
-(rerunfilecheck)             Before: A71FCF7761B817FAD84B75AB33B664EE;57193
-(rerunfilecheck)             After:  188529368CD025E1D0F9620972C09149;90759.
-
-LaTeX Warning: There were undefined references.
-
+(rerunfilecheck)             Before: 0D38C6D758789F525E8C57492F89104F;94250
+(rerunfilecheck)             After:  583FC78E1D451490784EF3AA75AEA524;99600.
 
 LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 26507 strings out of 492616
- 480268 string characters out of 6129482
- 582283 words of memory out of 5000000
- 29178 multiletter control sequences out of 15000+600000
- 29368 words of font info for 76 fonts, out of 8000000 for 9000
+ 26768 strings out of 492616
+ 484407 string characters out of 6129482
+ 589536 words of memory out of 5000000
+ 29323 multiletter control sequences out of 15000+600000
+ 35459 words of font info for 104 fonts, out of 8000000 for 9000
  1143 hyphenation exceptions out of 8191
  55i,17n,76p,3601b,785s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t2a.enc
-}</usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb>
-</usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx8.pfb></
-usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></u
-sr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cmextra/cmex8.pfb>
-</usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb><
-/usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></u
-sr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr
-/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmmib10.pfb></usr
-/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/l
-ocal/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/loca
-l/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/t
-exlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/te
-xlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/local/texl
-ive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texliv
-e/2019/texmf-dist/fonts/type1/public/esint-type1/esint10.pfb></usr/local/texliv
-e/2019/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb></usr/local/te
-xlive/2019/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb></usr/loca
-l/texlive/2019/texmf-dist/fonts/type1/public/cm-super/sfbi1200.pfb></usr/local/
-texlive/2019/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb></usr/local/te
-xlive/2019/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb></usr/local/texl
-ive/2019/texmf-dist/fonts/type1/public/cm-super/sfbx1728.pfb></usr/local/texliv
-e/2019/texmf-dist/fonts/type1/public/cm-super/sfbx2488.pfb></usr/local/texlive/
-2019/texmf-dist/fonts/type1/public/cm-super/sfcc1200.pfb></usr/local/texlive/20
-19/texmf-dist/fonts/type1/public/cm-super/sfrm0800.pfb></usr/local/texlive/2019
-/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb></usr/local/texlive/2019/t
-exmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb></usr/local/texlive/2019/tex
-mf-dist/fonts/type1/public/cm-super/sfrm1440.pfb></usr/local/texlive/2019/texmf
--dist/fonts/type1/public/cm-super/sfrm1728.pfb></usr/local/texlive/2019/texmf-d
-ist/fonts/type1/public/cm-super/sfrm2074.pfb></usr/local/texlive/2019/texmf-dis
-t/fonts/type1/public/cm-super/sfti1200.pfb>
-Output written on main.pdf (132 pages, 14978979 bytes).
+pdfTeX warning (dest): name{equation.35.60} has been referenced but does not 
+exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{equation.33.45} has been referenced but does not ex
+ist, replaced by a fixed one
+
+pdfTeX warning (dest): name{subsubsection.39.4.1} has been referenced but does 
+not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{subsection.39.4} has been referenced but does not e
+xist, replaced by a fixed one
+
+pdfTeX warning (dest): name{subsection.39.3} has been referenced but does not e
+xist, replaced by a fixed one
+
+pdfTeX warning (dest): name{subsection.39.2} has been referenced but does not e
+xist, replaced by a fixed one
+
+pdfTeX warning (dest): name{subsection.39.1} has been referenced but does not e
+xist, replaced by a fixed one
+
+pdfTeX warning (dest): name{subsection.35.4} has been referenced but does not e
+xist, replaced by a fixed one
+
+pdfTeX warning (dest): name{subsection.32.7} has been referenced but does not e
+xist, replaced by a fixed one
+
+pdfTeX warning (dest): name{subsection.32.6} has been referenced but does not e
+xist, replaced by a fixed one
+
+pdfTeX warning (dest): name{subsection.32.5} has been referenced but does not e
+xist, replaced by a fixed one
+
+pdfTeX warning (dest): name{subsection.32.4} has been referenced but does not e
+xist, replaced by a fixed one
+
+pdfTeX warning (dest): name{subsection.32.3} has been referenced but does not e
+xist, replaced by a fixed one
+
+pdfTeX warning (dest): name{subsection.32.2} has been referenced but does not e
+xist, replaced by a fixed one
+
+pdfTeX warning (dest): name{subsection.32.1} has been referenced but does not e
+xist, replaced by a fixed one
+
+pdfTeX warning (dest): name{subsection.29.5} has been referenced but does not e
+xist, replaced by a fixed one
+
+pdfTeX warning (dest): name{subsection.29.4} has been referenced but does not e
+xist, replaced by a fixed one
+
+pdfTeX warning (dest): name{subsection.29.3} has been referenced but does not e
+xist, replaced by a fixed one
+
+pdfTeX warning (dest): name{subsection.29.2} has been referenced but does not e
+xist, replaced by a fixed one
+
+pdfTeX warning (dest): name{subsection.28.1} has been referenced but does not e
+xist, replaced by a fixed one
+
+pdfTeX warning (dest): name{subsection.26.4} has been referenced but does not e
+xist, replaced by a fixed one
+
+pdfTeX warning (dest): name{subsection.26.3} has been referenced but does not e
+xist, replaced by a fixed one
+
+pdfTeX warning (dest): name{subsection.26.2} has been referenced but does not e
+xist, replaced by a fixed one
+
+pdfTeX warning (dest): name{subsection.26.1} has been referenced but does not e
+xist, replaced by a fixed one
+
+pdfTeX warning (dest): name{subsection.23.5} has been referenced but does not e
+xist, replaced by a fixed one
+
+pdfTeX warning (dest): name{subsection.23.4} has been referenced but does not e
+xist, replaced by a fixed one
+
+{/usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t2a.enc}<
+/usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></
+usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx8.pfb></us
+r/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr
+/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cmextra/cmex8.pfb></
+usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></u
+sr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></us
+r/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/
+local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/lo
+cal/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmmib10.pfb></usr/lo
+cal/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/loca
+l/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/
+texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/local/tex
+live/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texliv
+e/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive
+/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/local/texlive/2
+019/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/201
+9/texmf-dist/fonts/type1/public/esint-type1/esint10.pfb></usr/local/texlive/201
+9/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb></usr/local/texlive
+/2019/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb></usr/local/tex
+live/2019/texmf-dist/fonts/type1/public/cm-super/sfbi1200.pfb></usr/local/texli
+ve/2019/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb></usr/local/texlive
+/2019/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb></usr/local/texlive/2
+019/texmf-dist/fonts/type1/public/cm-super/sfbx1728.pfb></usr/local/texlive/201
+9/texmf-dist/fonts/type1/public/cm-super/sfbx2488.pfb></usr/local/texlive/2019/
+texmf-dist/fonts/type1/public/cm-super/sfcc1200.pfb></usr/local/texlive/2019/te
+xmf-dist/fonts/type1/public/cm-super/sfrm0800.pfb></usr/local/texlive/2019/texm
+f-dist/fonts/type1/public/cm-super/sfrm1000.pfb></usr/local/texlive/2019/texmf-
+dist/fonts/type1/public/cm-super/sfrm1200.pfb></usr/local/texlive/2019/texmf-di
+st/fonts/type1/public/cm-super/sfrm1440.pfb></usr/local/texlive/2019/texmf-dist
+/fonts/type1/public/cm-super/sfrm1728.pfb></usr/local/texlive/2019/texmf-dist/f
+onts/type1/public/cm-super/sfrm2074.pfb></usr/local/texlive/2019/texmf-dist/fon
+ts/type1/public/cm-super/sfti1200.pfb>
+Output written on main.pdf (147 pages, 15792084 bytes).
 PDF statistics:
- 1791 PDF objects out of 2073 (max. 8388607)
- 1452 compressed objects within 15 object streams
- 449 named destinations out of 1000 (max. 500000)
- 1456 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 2280 PDF objects out of 2487 (max. 8388607)
+ 1898 compressed objects within 19 object streams
+ 526 named destinations out of 1000 (max. 500000)
+ 2060 words of extra memory for PDF output out of 10000 (max. 10000000)
 
